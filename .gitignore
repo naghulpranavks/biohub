@@ -1,0 +1,140 @@
+# ==============================================================================
+# Biohub Cell Tracking - .gitignore
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# Python & Environment
+# ------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.so
+*.dylib
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.whl
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Pytest / Coverage / Linters
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# ------------------------------------------------------------------------------
+# Model Weights & Large Checkpoints
+# ------------------------------------------------------------------------------
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+
+# Allow config and manifest files inside weights directories
+!repo/weights/**/config.json
+!repo/weights/**/*.json
+
+# ------------------------------------------------------------------------------
+# Large Datasets & Bioimaging Formats
+# ------------------------------------------------------------------------------
+# Zarr and GEFF graph data
+*.zarr/
+*.zarr
+*.geff/
+*.geff
+*.h5
+*.hdf5
+*.tif
+*.tiff
+*.npy
+*.npz
+
+# Local data directories
+data/
+repo/data/
+
+# ------------------------------------------------------------------------------
+# Predictions, Experiments & Intermediate Output
+# ------------------------------------------------------------------------------
+repo/predictions/
+experiments/
+audit_plateau/
+scratch/
+working/
+outputs/
+runs/
+*.db
+*.sqlite
+*.sqlite3
+optuna_sweep.db
+
+# Submission archives and dumps
+submission*.csv
+submission*.zip
+*.zip
+*.tar
+*.tar.gz
+*.gz
+
+# Logs
+*.log
+
+# ------------------------------------------------------------------------------
+# IDEs & Operating System Artifacts
+# ------------------------------------------------------------------------------
+# Windows
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# ------------------------------------------------------------------------------
+# External / Non-project directories
+# ------------------------------------------------------------------------------
+schenider electric/

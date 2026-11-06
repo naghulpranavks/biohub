@@ -1,0 +1,1812 @@
+1. [2026-09-13T04:44:12Z] (step 0): https://www.kaggle.com/competitions/biohub-cell-tracking-during-development/overview
+go through this competition and have a good idea of what it is
+---
+2. [2026-09-13T04:49:25Z] (step 43): i am participating in this. can you help me win this?
+---
+3. [2026-09-13T04:52:40Z] (step 45): i am downloading it now
+---
+4. [2026-09-13T04:59:22Z] (step 54): "D:\Downloads_2\cell-tracking-getting-started-w-nearest-neighbor.ipynb"
+i found this in the code part of the competition analyse it
+---
+5. [2026-09-13T05:03:40Z] (step 62): "D:\Downloads_2\biohub-lf-hoctveto-div-b.ipynb"
+
+analyse this
+---
+6. [2026-09-13T05:05:10Z] (step 68): "D:\Downloads_2\kimi-notebook-v18.ipynb"
+analyze this
+---
+7. [2026-09-13T05:06:24Z] (step 75): "D:\Downloads_2\biohub-0-942-lb-one-knob-past-the-public-line.ipynb"
+analyze this
+---
+8. [2026-09-13T05:07:01Z] (step 81): "D:\Downloads_2\biohub-lf-dctta-v020.ipynb"
+analyse this
+---
+9. [2026-09-13T05:21:56Z] (step 89): "D:\Downloads_2\biohub-942tta.ipynb"
+
+analyse this
+---
+10. [2026-09-13T06:11:29Z] (step 110): do you have an idea what we are going to do?? the data will finish downloading in sometime
+---
+11. [2026-09-13T06:27:01Z] (step 114): NVIDIA GeForce RTX 4050 Laptop GPU (6 GB)
+Intel(R) UHD Graphics (128 MB)
+
+i have this in my device
+---
+12. [2026-09-13T06:28:33Z] (step 118): so i have a doubt, we are going to use the model that those advanced models use but with different parameters??
+---
+13. [2026-09-13T06:42:56Z] (step 120): my laptop crashed and i have to doswnload th 85 gb data again
+---
+14. [2026-09-13T06:43:49Z] (step 123): idk check yourself
+---
+15. [2026-09-13T06:46:07Z] (step 135): i think we can wait, i don't want to go in shortcuts just to start a bit early
+---
+16. [2026-09-13T06:52:22Z] (step 137): its downloading faster in my phone. how to transfer it to my laptop
+---
+17. [2026-09-13T07:51:23Z] (step 139): nvm its slow again, it will take atleast a few more hours
+---
+18. [2026-09-13T07:52:07Z] (step 141): B
+---
+19. [2026-09-13T16:35:17Z] (step 166): "D:\Downloads_2\biohub-cell-tracking-during-development"
+
+the files have downliaded
+---
+20. [2026-09-13T17:00:08Z] (step 255): why its not running in gpu
+---
+21. [2026-09-13T17:01:06Z] (step 257): switch to python 3.12
+---
+22. [2026-09-13T17:15:43Z] (step 299): how much score are we getting right now
+---
+23. [2026-09-13T17:16:33Z] (step 301): how many videos are there in total
+---
+24. [2026-09-13T17:17:42Z] (step 303): we will go with 5 videos, how long will it take
+---
+25. [2026-09-13T17:18:53Z] (step 305): what should i run in teminal now
+---
+26. [2026-09-13T17:20:00Z] (step 307): will there be any problem that may arise when running this overnight
+---
+27. [2026-09-13T17:28:32Z] (step 309): did trial 105 used the entire set for the trial
+---
+28. [2026-09-13T17:29:35Z] (step 311): but how will it help in increasing the scoe
+---
+29. [2026-09-13T17:37:06Z] (step 313): by the end of 8 hours how many trials would have completed
+---
+30. [2026-09-13T17:38:08Z] (step 315): but for me  each trial takes only 5 minutes
+---
+31. [2026-09-13T17:39:21Z] (step 317): so should i stop after 8 hours or let it run as long i can
+---
+32. [2026-09-13T17:40:30Z] (step 319): ok but after getting those, if i want even better score what should i do
+---
+33. [2026-09-13T17:46:17Z] (step 321): for the last 5 trials the score didn't increase even in the 5th decimal
+---
+34. [2026-09-14T02:14:22Z] (step 323): its still showing the same score even after 100 trials
+---
+35. [2026-09-14T02:15:27Z] (step 325): i haveb stopped it
+---
+36. [2026-09-14T02:22:16Z] (step 336): but the score has been constant since the first run and it didn't deviate anywhere
+---
+37. [2026-09-14T02:28:15Z] (step 369): but i suggest it to run for 30 minutes first, so we will know if the score is changing or not. if everything goes well then we will let it run for a few hours
+---
+38. [2026-09-14T02:28:49Z] (step 371): run it
+---
+39. [2026-09-14T02:45:59Z] (step 375): are you running in gpu or cpu
+---
+40. [2026-09-14T02:47:03Z] (step 379): run it for 2 hrs
+---
+41. [2026-09-14T02:47:51Z] (step 383): the preious optuna sweep is still running
+---
+42. [2026-09-14T02:53:33Z] (step 387): are you currently running the right one
+---
+43. [2026-09-14T03:35:32Z] (step 391): whats the progress\
+---
+44. [2026-09-14T03:37:14Z] (step 397): list down the scores scored so far
+---
+45. [2026-09-14T03:39:01Z] (step 401): run it for 3 more trials
+---
+46. [2026-09-14T03:39:42Z] (step 412): will this score be same as the one we will get it in kaggle or will tha tbe diferent
+---
+47. [2026-09-14T03:41:28Z] (step 414): will it be like 0.9450 instead of 0.9504 or will it be 0.6450 instead of 0.9504. like how much the  deviation will be
+---
+48. [2026-09-14T03:42:41Z] (step 416): the top score is 0.97
+---
+49. [2026-09-14T04:03:44Z] (step 418): whats the progress
+---
+50. [2026-09-14T04:04:24Z] (step 425): what were the scores
+---
+51. [2026-09-14T04:04:52Z] (step 427): how am i supposed to submit this
+---
+52. [2026-09-14T04:06:31Z] (step 429): what are the other ways to submit, i don't want to submit in notebook (as it might be made public)
+---
+53. [2026-09-14T04:07:31Z] (step 431): i got the rreference models from their notebooks right?
+---
+54. [2026-09-14T04:09:13Z] (step 433): import numpy as np # linear algebra
+import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+
+# Input data files are available in the read-only "../input/" directory
+# For example, running this (by clicking run or pressing Shift+Enter) will list all files under the input directory
+
+import os
+for dirname, _, filenames in os.walk('/kaggle/input'):
+    for filename in filenames:
+        print(os.path.join(dirname, filename))
+
+# You can write up to 20GB to the current directory (/kaggle/working/) that gets preserved as output when you create a version using "Save & Run All" 
+# You can also write temporary files to /kaggle/temp/, but they won't be saved outside of the current session
+
+# Use the kagglehub client library to attach Kaggle resources like competitions, datasets, and models to your session
+# Learn more about kagglehub: https://github.com/Kaggle/kagglehub/blob/main/README.md
+
+import kagglehub
+# kagglehub.dataset_download('<owner>/<dataset-slug>')
+
+i created a new notebook and this is what is present in it
+---
+55. [2026-09-14T04:10:42Z] (step 435): i downloaded a lot of baseline model. tell exactly which one should i clone
+---
+56. [2026-09-14T04:13:29Z] (step 443): there are 100s of notebooks
+---
+57. [2026-09-14T04:15:46Z] (step 452): tell me exactly which file you used as basemodel, i will search that exact file
+---
+58. [2026-09-14T04:17:23Z] (step 454): 17000 notebooks uses it. tell me exactly which file you used as basemodel, i will search that exact file
+---
+59. [2026-09-14T04:20:45Z] (step 460): there are these 3 datasets for biohub-tracking-support-pack-50ep-v1
+---
+60. [2026-09-14T04:22:36Z] (step 462): biohub-cell-tracking-during-development
+where is this
+---
+61. [2026-09-14T04:23:26Z] (step 464): should i run after pasting the code
+---
+62. [2026-09-14T04:25:47Z] (step 467): how will i know the score
+---
+63. [2026-09-14T04:26:34Z] (step 469): how long the notebook will take to run
+---
+64. [2026-09-14T04:30:34Z] (step 471): ileNotFoundError                         Traceback (most recent call last)
+/tmp/ipykernel_16/3289460983.py in <cell line: 0>()
+      8 # 2. Kaggle inputs are "Read-Only". We have to copy the repo into our working directory
+      9 #    so the prediction script has permission to save the output files!
+---> 10 shutil.copytree("/kaggle/input/biohub-tracking-support-pack/repo", "/kaggle/working/repo", dirs_exist_ok=True)
+     11 
+     12 # 3. Trigger the prediction script with our hyper-optimized rules!
+
+/usr/lib/python3.12/shutil.py in copytree(src, dst, symlinks, ignore, copy_function, ignore_dangling_symlinks, dirs_exist_ok)
+    596     """
+    597     sys.audit("shutil.copytree", src, dst)
+--> 598     with os.scandir(src) as itr:
+    599         entries = list(itr)
+    600     return _copytree(entries=entries, src=src, dst=dst, symlinks=symlinks,
+
+FileNotFoundError: [Errno 2] No such file or directory: '/kaggle/input/biohub-tracking-support-pack/repo'
+---
+65. [2026-09-14T04:51:51Z] (step 473): CalledProcessError                        Traceback (most recent call last)
+/tmp/ipykernel_16/3079671145.py in <cell line: 0>()
+     26 
+     27 print("Starting inference on Kaggle test videos...")
+---> 28 subprocess.run([
+     29     "python", "/kaggle/working/repo/scripts/predict_unet_transformer.py",
+     30     "--data-dir", "/kaggle/input/biohub-cell-tracking-during-development/test",
+
+/usr/lib/python3.12/subprocess.py in run(input, capture_output, timeout, check, *popenargs, **kwargs)
+    569         retcode = process.poll()
+    570         if check and retcode:
+--> 571             raise CalledProcessError(retcode, process.args,
+    572                                      output=stdout, stderr=stderr)
+    573     return CompletedProcess(process.args, retcode, stdout, stderr)
+
+CalledProcessError: Command '['python', '/kaggle/working/repo/scripts/predict_unet_transformer.py', '--data-dir', '/kaggle/input/biohub-cell-tracking-during-development/test', '--weights', '/kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1/weights/unet_transformer/split_0/edge_predictor_best.pth', '--use-ilp', '--det-threshold', '0.9710161602825176', '--ilp-edge-weight', '-0.6348559817875552', '--ilp-appearance-weight', '0.2946543577204118', '--ilp-disappearance-weight', '0.7523219730029334', '--ilp-division-weight', '1.2109103619057782']' returned non-zero exit status 1.
+---
+66. [2026-09-14T04:53:34Z] (step 480): are these happening because of wrong dataset
+---
+67. [2026-09-14T04:54:07Z] (step 482): why can't you help me find teh original notebook
+---
+68. [2026-09-14T04:55:51Z] (step 490): sh: 1: cannot open 4: No such file
+---------------------------------------------------------------------------
+FileNotFoundError                         Traceback (most recent call last)
+/tmp/ipykernel_16/909206616.py in <cell line: 0>()
+     22 # 4. Generate a dynamic JSON splits index for the Kaggle Test Set
+     23 test_dir = "/kaggle/input/biohub-cell-tracking-during-development/test"
+---> 24 test_videos = os.listdir(test_dir)
+     25 with open("/kaggle/working/splits.json", "w") as f:
+     26     json.dump([{"test": test_videos}], f)
+
+FileNotFoundError: [Errno 2] No such file or directory: '/kaggle/input/biohub-cell-tracking-during-development/test'
+---
+69. [2026-09-14T04:57:38Z] (step 492): "D:\Downloads_2\biohub reference notebooks"
+this has the notebooks you have referred to. tell me which of these files you are using so that i can search this notebooks and clone it
+---
+70. [2026-09-14T05:03:57Z] (step 510): https://www.kaggle.com/code/naghulpranavks/biohub-942tta/edit?fromFork=1
+the code is soo huge
+---
+71. [2026-09-14T05:06:42Z] (step 512): EXPECTED_NUMERIC = {
+    "BIOHUB_DET_THRESHOLD": 0.965,
+    "BIOHUB_ILP_APPEARANCE_WEIGHT": 0.0,
+    "BIOHUB_ILP_DISAPPEARANCE_WEIGHT": 2,
+    "BIOHUB_GAP_CLOSE_UM": 5.0,
+    "BIOHUB_OUTPUT_MIN_TRACK_LEN": 6.0,
+    "BIOHUB_BIDIRECTIONAL_EDGE_WEIGHT": 0.15,
+
+
+import os
+BIOHUB_PRESET = 'harmonic_v3_division_wide'
+BIOHUB_SCORE_AXIS = 'public 0.939 base + holdout-selected post-process configuration'
+
+os.environ["BIOHUB_OUTPUT_FILTER_SHORT_TRACKS"] = "1"
+os.environ["BIOHUB_DET_THRESHOLD"] = "0.965"
+os.environ["BIOHUB_MOTION_RELINK_LEARNED_BONUS"] = '1.0'
+os.environ["BIOHUB_ILP_APPEARANCE_WEIGHT"] = "0.0"
+os.environ["BIOHUB_ILP_DISAPPEARANCE_WEIGHT"] = "2"
+os.environ["BIOHUB_GAP_CLOSE_MAX_GAP"] = "2"
+os.environ["BIOHUB_GAP_CLOSE_UM"] = "5.0"
+os.environ["BIOHUB_GAP_DENSITY_ADAPTIVE"] = "1"
+os.environ["BIOHUB_GAP_DENSITY_REFERENCE_UM"] = "6.
+
+its in 2 places. which one should i change
+---
+72. [2026-09-14T05:07:51Z] (step 514): read teh entire code and  tell me teh changes to be done. ig there will be a lot t change
+---
+73. [2026-09-14T05:09:51Z] (step 520): import os
+BIOHUB_PRESET = 'harmonic_v3_division_wide'
+BIOHUB_SCORE_AXIS = 'public 0.939 base + holdout-selected post-process configuration'
+
+os.environ["BIOHUB_OUTPUT_FILTER_SHORT_TRACKS"] = "1"
+os.environ["BIOHUB_DET_THRESHOLD"] = "0.965"
+os.environ["BIOHUB_MOTION_RELINK_LEARNED_BONUS"] = '1.0'
+os.environ["BIOHUB_ILP_APPEARANCE_WEIGHT"] = "0.0"
+os.environ["BIOHUB_ILP_DISAPPEARANCE_WEIGHT"] = "2"
+os.environ["BIOHUB_GAP_CLOSE_MAX_GAP"] = "2"
+os.environ["BIOHUB_GAP_CLOSE_UM"] = "5.0"
+os.environ["BIOHUB_GAP_DENSITY_ADAPTIVE"] = "1"
+os.environ["BIOHUB_GAP_DENSITY_REFERENCE_UM"] = "6.5"
+os.environ["BIOHUB_GAP_DENSITY_GAIN"] = "0.040"
+os.environ["BIOHUB_GAP_DENSITY_MAX_STEP_DELTA_UM"] = "0.125"
+os.environ["BIOHUB_GAP_DENSITY_NEIGHBORS"] = "3"
+os.environ["BIOHUB_OUTPUT_MIN_TRACK_LEN"] = "6"
+os.environ["BIOHUB_OUTPUT_KEEP_DIVISION_COMPONENTS"] = "1"
+os.environ["BIOHUB_OUTPUT_GAP2_RECOVERY"] = "1"
+os.environ["BIOHUB_SAFE_DIV_MAX_UM"] = "9.0"  # Max parent-to-daughter separation for an accepted division.
+#   Ground-truth parent-daughter links reach 10.4um; a 7um cap rejected ~25% of real links.
+#   Loosening 7->9 recovers wide-but-genuine divisions (this is the "sdm9" arm; alone it scored LB 0.939).
+os.environ["BIOHUB_SAFE_DIV_SISTER_MAX_UM"] = "14.0"  # Max daughter-to-daughter separation for an accepted division.
+#   Ground-truth divisions have sister separations up to 13.7um (median 10.4, p90 13.0), so a 12um cap
+#   rejected ~29% of real divisions; 14um admits all of them while the symmetry, mutual-NN, divergence
+#   and DeepCenter gates still suppress spurious wide pairs.
+os.environ["BIOHUB_SAFE_DIV_SISTER_SYMMETRY_TAU"] = "0.6"  # Sister-symmetry precision gate: reject a proposed division whose two
+os.environ["BIOHUB_SAFE_DIV_DIVERGE_UM"] = "2.25"  # Forward-divergence precision gate (default 2.25); larger=stricter, rejects non-separating spurious forks. kimi-v18 LB sweep peaked ~4.0-4.5.
+#   daughter distances from the parent differ by more than 60% of their mean (a wildly-asymmetric,
+#   almost-alway
+<truncated 17 bytes>
+. Freeing that slot lets the genuine symmetric division form.
+os.environ["BIOHUB_SAFE_DIV_EXISTING_CHILD_MAX_UM"] = "10.0"
+os.environ["BIOHUB_SAFE_DIV_FRAME_FRAC_CAP"] = "0.0076"
+os.environ["BIOHUB_SAFE_DIV_GLOBAL_FRAC_CAP"] = "0.00375"
+# Encourage the ILP to natively predict divisions rather than just disappearing/reappearing
+os.environ["BIOHUB_ILP_DIVISION_WEIGHT"] = "1.2"     # Up from 1.0
+os.environ["BIOHUB_ADAPTIVE_SHORT_TRACK_RESCUE"] = "1"
+os.environ["BIOHUB_SHORT_TRACK_RESCUE_MIN_LEN"] = "4"
+os.environ["BIOHUB_SHORT_TRACK_RESCUE_MIN_MEAN_EDGE_PROB"] = "0.88"
+os.environ["BIOHUB_SHORT_TRACK_RESCUE_MAX_MEAN_EDGE_DIST_UM"] = "3.0"
+os.environ["BIOHUB_SHORT_TRACK_RESCUE_MAX_NODES_FRAC"] = "0.012"
+os.environ["BIOHUB_SHORT_TRACK_RESCUE_MAX_NODES_ABS"] = "120"
+os.environ["BIOHUB_USE_DEEPCENTER_VETO"] = "1"
+os.environ["BIOHUB_REQUIRE_DEEPCENTER_VETO"] = "1"
+os.environ["BIOHUB_DEEPCENTER_EXPECTED_EPOCH"] = "2"
+os.environ["BIOHUB_DEEPCENTER_GAP_CONFIRM_MIN_SPAN_UM"] = "8.5"
+os.environ["BIOHUB_DEEPCENTER_CHECKPOINT"] = "/kaggle/input/biohub-deepcenter-unet3d-center-prior-v1/weights/full_frame_center/best.pt"
+os.environ["BIOHUB_DEEPCENTER_GAP_VETO"] = "1"
+os.environ["BIOHUB_DEEPCENTER_GAP_THRESHOLD"] = "0.25"
+os.environ["BIOHUB_DEEPCENTER_SAFE_DIV_VETO"] = "1"
+os.environ["BIOHUB_RUN_OUTPUT_DIAGNOSTICS"] = "0"
+os.environ["BIOHUB_BIDIRECTIONAL_EDGE_WEIGHT"] = "0.15"
+os.environ["BIOHUB_BIDIRECTIONAL_FUSION_MODE"] = "harmonic_probability"
+os.environ["BIOHUB_DUAL_SEED_MIN_CANDIDATE_RETENTION"] = "0.90"
+os.environ["BIOHUB_DIAGNOSTIC_ARM"] = "harmonic_association_production"
+os.environ["BIOHUB_VALIDATOR_N_PER_TYPE"] = "4"
+os.environ["BIOHUB_PPSWEEP_SELECT_MARGIN"] = "0.001"
+os.environ["BIOHUB_PPSWEEP_MAX_ADJ_LOSS"] = "0.0005"
+
+os.environ["BIOHUB_DEEPCENTER_SAFE_DIV_THRESHOLD"] = "0.25"
+print("BIOHUB_PRESET:", BIOHUB_PRESET)
+print("BIOHUB_SCORE_AXIS:", BIOHUB_SCORE_AXIS)
+
+this is teh entire code for the os.environ
+---
+74. [2026-09-14T05:11:11Z] (step 522): our code is also running simultaneously, it has passed 15 minutes and still on
+---
+75. [2026-09-14T05:12:34Z] (step 524): nvm our cloned notebook failed in 20s
+---
+76. [2026-09-14T05:13:32Z] (step 526): ---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+/tmp/ipykernel_23/1287034691.py in <cell line: 0>()
+     21 
+     22 _drift = {}
+---> 23 for _key, _want in _EXPECTED_NUMERIC.items():
+     24     _raw = _guard_os.environ.get(_key)
+     25     if _raw is None:
+
+NameError: name '_EXPECTED_NUMERIC' is not defined
+---
+77. [2026-09-14T05:19:16Z] (step 528): how long will our cloned notebookb take. iyts running in gpu t4 x2
+---
+78. [2026-09-14T05:20:23Z] (step 530): but i am running our code and this cloned one side by side
+---
+79. [2026-09-14T05:21:17Z] (step 532): i mean we only have 9 hrs. abd this exceeds 9 hrs
+---
+80. [2026-09-14T05:22:13Z] (step 534): can't we generate the submission. zip ourselves??
+---
+81. [2026-09-14T08:15:24Z] (step 537): Could not find provided output file splits.json
+it hs finished running, but i am getting this when i try to sumit it to competition
+---
+82. [2026-09-14T08:16:28Z] (step 539): Could not find provided output file splits.json
+it haas finished running our code. but when i try to submit it to our code we are getting this
+---
+83. [2026-09-14T08:18:52Z] (step 541): Could not find provided output file splits.json
+this is what i get if i try to submit submission.xip
+---
+84. [2026-09-14T08:20:39Z] (step 545): but i wnat to submit my own code too
+---
+85. [2026-09-14T08:22:32Z] (step 553): no i mean i want  to submit my OWN CODE TOO, not the cloned one
+---
+86. [2026-09-14T08:25:13Z] (step 557): but anyway its showing copied from...
+---
+87. [2026-09-14T11:08:47Z] (step 559): i am try ing submittingfor 3hrs its still loading or scoring
+---
+88. [2026-09-14T11:10:39Z] (step 561): no i mean after submitting it to competition, its still loading
+---
+89. [2026-09-14T11:12:47Z] (step 563): An error occurred while committing kernel: ConcurrencyViolation Sequence number must match Draft record: KernelId=134284728, ExpectedSequence=31, ActualSequence=29, AuthorUserId=33705688
+
+im getting this when i try to save the version where i copy pasted it from the cloned not book
+---
+90. [2026-09-14T11:24:17Z] (step 565): CalledProcessError                        Traceback (most recent call last)
+/tmp/ipykernel_22/2061859436.py in <cell line: 0>()
+   1468     print(f"Using single-process prediction because {reason}.")
+   1469     print(" ".join(predict_cmd))
+-> 1470     subprocess.run(
+   1471         predict_cmd,
+   1472         cwd=REPO_DIR,
+
+/usr/lib/python3.12/subprocess.py in run(input, capture_output, timeout, check, *popenargs, **kwargs)
+    569         retcode = process.poll()
+    570         if check and retcode:
+--> 571             raise CalledProcessError(retcode, process.args,
+    572                                      output=stdout, stderr=stderr)
+    573     return CompletedProcess(process.args, retcode, stdout, stderr)
+
+CalledProcessError: Command '['/usr/bin/python3', 'scripts/predict_unet_transformer.py', '--data-dir', '/kaggle/input/competitions/biohub-cell-tracking-during-development/test', '--splits', 'kaggle_test_splits_50ep.json', '--split', '0', '--weights', 'weights/unet_transformer/split_0/edge_predictor_best.pth', '--unet-batch-size', '4', '--det-threshold', '0.9710161602825176', '--ilp-edge-weight', '-0.6348559817875552', '--ilp-appearance-weight', '0.2946543577204118', '--ilp-disappearance-weight', '0.7523219730029334', '--ilp-division-weight', '1.2109103619057782', '--use-ilp']' returned non-zero exit status 1.
+---
+91. [2026-09-14T11:27:51Z] (step 581): no i added all the 4 datasetes myself. let me explain. you see i copied the entire code to a new notebook(completly new notebook) and then added the 4 datasets used in the cloned notebook. tell me if you want the code, i can give you that
+---
+92. [2026-09-14T11:30:24Z] (step 587): /usr/local/lib/python3.12/dist-packages/dask/array/image.py:7: FutureWarning: `find_available_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  from skimage.io import imread as sk_imread
+/usr/lib/python3.12/importlib/__init__.py:90: FutureWarning: `reset_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  return _bootstrap._gcd_import(name[level:], package, level)
+/usr/local/lib/python3.12/dist-packages/torch/cuda/__init__.py:435: UserWarning: 
+    Found GPU0 Tesla P100-PCIE-16GB which is of cuda capability 6.0.
+    Minimum and Maximum cuda capability supported by this version of PyTorch is
+    (7.0) - (12.0)
+    
+  queued_call()
+/usr/local/lib/python3.12/dist-packages/torch/cuda/__init__.py:435: UserWarning: 
+    Please install PyTorch with a following CUDA
+    configurations:  12.6 following instructions at
+    https://pytorch.org/get-started/locally/
+    
+  queued_call()
+/usr/local/lib/python3.12/dist-packages/torch/cuda/__init__.py:435: UserWarning: 
+Tesla P100-PCIE-16GB with CUDA capability sm_60 is not compatible with the current PyTorch installation.
+The current PyTorch install supports CUDA capabilities sm_70 sm_75 sm_80 sm_86 sm_90 sm_100 sm_120.
+If you want to use the Tesla P100-PCIE-16GB GPU with PyTorch, please check the instructions at https://pytorch.org/get-started/locally/
+
+  queued_call()
+Secondary model: /kaggle/working/secondary_seed_weights/unet_transformer/split_0/edge_predictor_best.pth | edge weight=0.150 | detection weight=0.800 | link mode=low_margin_consensus | temperature=1.000 | low-margin max=0.350 | edge threshold=0.480
+Fold 0: 4 datasets | weights=weights/unet_transformer/split_0/edge_predictor_best.pth | device=cuda | window_size=2 | pool_kernel_um=3.0
+Traceback (m
+<truncated 2956 bytes>
+^^^^^^^^^^
+torch.AcceleratorError: CUDA error: no kernel image is available for execution on the device
+Search for `cudaErrorNoKernelImageForDevice' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+---------------------------------------------------------------------------
+CalledProcessError                        Traceback (most recent call last)
+/tmp/ipykernel_22/2061859436.py in <cell line: 0>()
+   1468     print(f"Using single-process prediction because {reason}.")
+   1469     print(" ".join(predict_cmd))
+-> 1470     subprocess.run(
+   1471         predict_cmd,
+   1472         cwd=REPO_DIR,
+
+/usr/lib/python3.12/subprocess.py in run(input, capture_output, timeout, check, *popenargs, **kwargs)
+    569         retcode = process.poll()
+    570         if check and retcode:
+--> 571             raise CalledProcessError(retcode, process.args,
+    572                                      output=stdout, stderr=stderr)
+    573     return CompletedProcess(process.args, retcode, stdout, stderr)
+
+CalledProcessError: Command '['/usr/bin/python3', 'scripts/predict_unet_transformer.py', '--data-dir', '/kaggle/input/competitions/biohub-cell-tracking-during-development/test', '--splits', 'kaggle_test_splits_50ep.json', '--split', '0', '--weights', 'weights/unet_transformer/split_0/edge_predictor_best.pth', '--unet-batch-size', '4', '--det-threshold', '0.9710161602825176', '--ilp-edge-weight', '-0.6348559817875552', '--ilp-appearance-weight', '0.2946543577204118', '--ilp-disappearance-weight', '0.7523219730029334', '--ilp-division-weight', '1.2109103619057782', '--use-ilp']' returned non-zero exit status 1.
+---
+93. [2026-09-14T11:30:47Z] (step 589): import os
+BIOHUB_PRESET = 'harmonic_v3_division_wide'
+BIOHUB_SCORE_AXIS = 'public 0.939 base + holdout-selected post-process configuration'
+
+os.environ["BIOHUB_OUTPUT_FILTER_SHORT_TRACKS"] = "1"
+os.environ["BIOHUB_DET_THRESHOLD"] = "0.9710161602825176"
+os.environ["BIOHUB_MOTION_RELINK_LEARNED_BONUS"] = '1.0'
+os.environ["BIOHUB_ILP_APPEARANCE_WEIGHT"] = "0.2946543577204118"
+os.environ["BIOHUB_ILP_DISAPPEARANCE_WEIGHT"] = "0.7523219730029334"
+os.environ["BIOHUB_ILP_EDGE_WEIGHT"] = "-0.6348559817875552"
+os.environ["BIOHUB_GAP_CLOSE_MAX_GAP"] = "2"
+os.environ["BIOHUB_GAP_CLOSE_UM"] = "5.0"
+os.environ["BIOHUB_GAP_DENSITY_ADAPTIVE"] = "1"
+os.environ["BIOHUB_GAP_DENSITY_REFERENCE_UM"] = "6.5"
+os.environ["BIOHUB_GAP_DENSITY_GAIN"] = "0.040"
+os.environ["BIOHUB_GAP_DENSITY_MAX_STEP_DELTA_UM"] = "0.125"
+os.environ["BIOHUB_GAP_DENSITY_NEIGHBORS"] = "3"
+os.environ["BIOHUB_OUTPUT_MIN_TRACK_LEN"] = "6"
+os.environ["BIOHUB_OUTPUT_KEEP_DIVISION_COMPONENTS"] = "1"
+os.environ["BIOHUB_OUTPUT_GAP2_RECOVERY"] = "1"
+os.environ["BIOHUB_SAFE_DIV_MAX_UM"] = "9.0"  # Max parent-to-daughter separation for an accepted division.
+#   Ground-truth parent-daughter links reach 10.4um; a 7um cap rejected ~25% of real links.
+#   Loosening 7->9 recovers wide-but-genuine divisions (this is the "sdm9" arm; alone it scored LB 0.939).
+os.environ["BIOHUB_SAFE_DIV_SISTER_MAX_UM"] = "14.0"  # Max daughter-to-daughter separation for an accepted division.
+#   Ground-truth divisions have sister separations up to 13.7um (median 10.4, p90 13.0), so a 12um cap
+#   rejected ~29% of real divisions; 14um admits all of them while the symmetry, mutual-NN, divergence
+#   and DeepCenter gates still suppress spurious wide pairs.
+os.environ["BIOHUB_SAFE_DIV_SISTER_SYMMETRY_TAU"] = "0.6"  # Sister-symmetry precision gate: reject a proposed division whose two
+os.environ["BIOHUB_SAFE_DIV_DIVERGE_UM"] = "2.25"  # Forward-divergence precision gate (default 2.25); larger=stricter, rejects non-separating spurious forks. kimi-v18 LB swee
+<truncated 188063 bytes>
+
+    row.update(errors)
+    return row
+
+
+def aggregate_official(sample_rows):
+    total_w = sum(r["weight"] for r in sample_rows) or 1
+    weighted_adj = sum(r["adjusted_edge_jaccard"] * r["weight"] for r in sample_rows) / total_w
+    div_tp = sum(r["div_tp"] for r in sample_rows)
+    div_fp = sum(r["div_fp"] for r in sample_rows)
+    div_fn = sum(r["div_fn"] for r in sample_rows)
+    div_jac = edge_jaccard(div_tp, div_fp, div_fn)
+    return {
+        "adjusted_edge_jaccard": weighted_adj,
+        "division_jaccard": div_jac,
+        "proxy_score": weighted_adj + VALIDATOR_DIVISION_WEIGHT * div_jac,
+        "div_tp": div_tp, "div_fp": div_fp, "div_fn": div_fn,
+        "missed_gt_nodes": sum(r["missed_gt_nodes"] for r in sample_rows),
+        "spurious_pred_nodes": sum(r["spurious_pred_nodes"] for r in sample_rows),
+        "edges_recovered": sum(r["edges_recovered"] for r in sample_rows),
+        "edges_fragmented": sum(r["edges_fragmented"] for r in sample_rows),
+        "edges_lost_to_detection": sum(r["edges_lost_to_detection"] for r in sample_rows),
+        "wrong_association_edges": sum(r["wrong_association_edges"] for r in sample_rows),
+    }
+import copy as _copy
+
+# Post-process constants that the sweep is allowed to override. Every one of
+# them is read from module globals at call time inside filter_output_graph and
+# its helpers, so overriding globals() is equivalent to changing the BIOHUB_*
+# environment variable before the definitions cell ran.
+PP_SWEEP_KEYS = [
+    "SAFE_DIV_MAX_UM", "SAFE_DIV_SISTER_MAX_UM", "SAFE_DIV_DIVERGE_UM",
+    "SAFE_DIV_SISTER_SYMMETRY_TAU", "SAFE_DIV_EXISTING_CHILD_MAX_UM",
+    "SAFE_DIV_FRAME_FRAC_CAP", "SAFE_DIV_GLOBAL_FRAC_CAP",
+    "DEEPCENTER_SAFE_DIV_THRESHOLD", "DEEPCENTER_GAP_THRESHOLD",
+    "GAP_CLOSE_UM", "OUTPUT_MIN_TRACK_LEN",
+    "SHORT_TRACK_RESCUE_MIN_MEAN_EDGE_PROB", "
+<truncated 15401 bytes>
+
+NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.
+---
+94. [2026-09-14T11:37:12Z] (step 592): File "/usr/local/lib/python3.12/dist-packages/torch/nn/modules/module.py", line 1776, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/torch/nn/modules/module.py", line 1787, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/torch/nn/modules/container.py", line 253, in forward
+    input = module(input)
+            ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/torch/nn/modules/module.py", line 1776, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/torch/nn/modules/module.py", line 1787, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/torch/nn/modules/activation.py", line 143, in forward
+    return F.relu(input, inplace=self.inplace)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/torch/nn/functional.py", line 1719, in relu
+    result = torch.relu_(input)
+             ^^^^^^^^^^^^^^^^^^
+torch.AcceleratorError: CUDA error: no kernel image is available for execution on the device
+Search for `cudaErrorNoKernelImageForDevice' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+---------------------------------------------------------------------------
+CalledProcessError                        Traceback (most recent call last)
+/tmp/ipykernel_23/2061859436.py in <cell line: 0>()
+   1468     print(f"Using single-process prediction because {reason}.")
+   1469     print(" ".join(predict_cmd))
+-> 1470     subprocess.run(
+   1471         predict_cmd,
+   1472         cwd=REPO_DIR,
+
+/usr/lib/python3.12/subprocess.py in run(input, capture_output, timeout, check, *popenargs, **kwargs)
+    569         retcode = process.poll()
+    570         if check and retcode:
+--> 571             raise CalledProcessError(retcode, process.args,
+    572                                      output=stdout, stderr=stderr)
+    573     return CompletedProcess(process.args, retcode, stdout, stderr)
+
+CalledProcessError: Command '['/usr/bin/python3', 'scripts/predict_unet_transformer.py', '--data-dir', '/kaggle/input/competitions/biohub-cell-tracking-during-development/test', '--splits', 'kaggle_test_splits_50ep.json', '--split', '0', '--weights', 'weights/unet_transformer/split_0/edge_predictor_best.pth', '--unet-batch-size', '4', '--det-threshold', '0.9710161602825176', '--ilp-edge-weight', '-0.6348559817875552', '--ilp-appearance-weight', '0.2946543577204118', '--ilp-disappearance-weight', '0.7523219730029334', '--ilp-division-weight', '1.2109103619057782', '--use-ilp']' returned non-zero exit status 1.
+---
+95. [2026-09-14T11:37:50Z] (step 594): i am ran it in p100
+---
+96. [2026-09-14T11:39:39Z] (step 596): its running in tpu v5e-8
+---
+97. [2026-09-14T11:41:21Z] (step 598): i am not able to change it to tpu x2, i am only able to run it in p100
+---
+98. [2026-09-14T11:42:06Z] (step 600): its not there
+---
+99. [2026-09-14T12:57:49Z] (step 602): i am not able to choose which gpu i want.
+---
+100. [2026-09-14T12:59:22Z] (step 604): lets go now i am able to run in gpu t4 x2
+---
+101. [2026-09-14T13:01:29Z] (step 606): how long will it take
+---
+102. [2026-09-14T13:02:44Z] (step 608): should i run it in slow mode or fast mode. what do you suggest
+---
+103. [2026-09-14T13:05:42Z] (step 610): i cant find it
+---
+104. [2026-09-14T13:06:21Z] (step 612): import os
+BIOHUB_PRESET = 'harmonic_v3_division_wide'
+BIOHUB_SCORE_AXIS = 'public 0.939 base + holdout-selected post-process configuration'
+
+os.environ["BIOHUB_OUTPUT_FILTER_SHORT_TRACKS"] = "1"
+os.environ["BIOHUB_DET_THRESHOLD"] = "0.9710161602825176"
+os.environ["BIOHUB_MOTION_RELINK_LEARNED_BONUS"] = '1.0'
+os.environ["BIOHUB_ILP_APPEARANCE_WEIGHT"] = "0.2946543577204118"
+os.environ["BIOHUB_ILP_DISAPPEARANCE_WEIGHT"] = "0.7523219730029334"
+os.environ["BIOHUB_ILP_EDGE_WEIGHT"] = "-0.6348559817875552"
+os.environ["BIOHUB_GAP_CLOSE_MAX_GAP"] = "2"
+os.environ["BIOHUB_GAP_CLOSE_UM"] = "5.0"
+os.environ["BIOHUB_GAP_DENSITY_ADAPTIVE"] = "1"
+os.environ["BIOHUB_GAP_DENSITY_REFERENCE_UM"] = "6.5"
+os.environ["BIOHUB_GAP_DENSITY_GAIN"] = "0.040"
+os.environ["BIOHUB_GAP_DENSITY_MAX_STEP_DELTA_UM"] = "0.125"
+os.environ["BIOHUB_GAP_DENSITY_NEIGHBORS"] = "3"
+os.environ["BIOHUB_OUTPUT_MIN_TRACK_LEN"] = "6"
+os.environ["BIOHUB_OUTPUT_KEEP_DIVISION_COMPONENTS"] = "1"
+os.environ["BIOHUB_OUTPUT_GAP2_RECOVERY"] = "1"
+os.environ["BIOHUB_SAFE_DIV_MAX_UM"] = "9.0"  # Max parent-to-daughter separation for an accepted division.
+#   Ground-truth parent-daughter links reach 10.4um; a 7um cap rejected ~25% of real links.
+#   Loosening 7->9 recovers wide-but-genuine divisions (this is the "sdm9" arm; alone it scored LB 0.939).
+os.environ["BIOHUB_SAFE_DIV_SISTER_MAX_UM"] = "14.0"  # Max daughter-to-daughter separation for an accepted division.
+#   Ground-truth divisions have sister separations up to 13.7um (median 10.4, p90 13.0), so a 12um cap
+#   rejected ~29% of real divisions; 14um admits all of them while the symmetry, mutual-NN, divergence
+#   and DeepCenter gates still suppress spurious wide pairs.
+os.environ["BIOHUB_SAFE_DIV_SISTER_SYMMETRY_TAU"] = "0.6"  # Sister-symmetry precision gate: reject a proposed division whose two
+os.environ["BIOHUB_SAFE_DIV_DIVERGE_UM"] = "2.25"  # Forward-divergence precision gate (default 2.25); larger=stricter, rejects non-separating spurious forks. kimi-v18 LB sweep peaked ~4.0-4.5.
+#   daugh
+<truncated 188063 bytes>
+graph.node_attrs().iter_rows(named=True):
+            node_id = int(row["node_id"])
+            raw_nodes_by_id[node_id] = {
+                "node_id": node_id, "t": int(row["t"]),
+                "z": float(row["z"]), "y": float(row["y"]), "x": float(row["x"]),
+            }
+        raw_edges = []
+        for row in pred_graph.edge_attrs().iter_rows(named=True):
+            edge_prob = row.get("edge_prob") if hasattr(row, "get") else None
+            raw_edges.append({
+                "source_id": int(row["source_id"]), "target_id": int(row["target_id"]),
+                "edge_prob": None if edge_prob is None else float(edge_prob),
+            })
+        VAL_RAW_GRAPHS[stem] = (raw_nodes_by_id, raw_edges)
+    print(f"VALIDATOR: cached {len(VAL_RAW_GRAPHS)} raw prediction graphs + GT")
+
+
+def score_validator_config(config: dict, label: str, verbose: bool = False) -> tuple[dict, list]:
+    """Run the full post-process on every cached validator graph with the
+    given overrides and score it with the official metric formula."""
+    saved = pp_apply(config)
+    _real_test_dir = TEST_DIR
+    globals()["TEST_DIR"] = TRAIN_DIR
+    rows = []
+    t0 = time.time()
+    try:
+        for stem in val_stems:
+            raw_nodes_by_id, raw_edges = VAL_RAW_GRAPHS[stem]
+            nodes_copy = _copy.deepcopy(raw_nodes_by_id)
+            edges_copy = _copy.deepcopy(raw_edges)
+            processed_nodes, processed_edges, _stage_stats = filter_output_graph(
+                nodes_copy, edges_copy, dataset=stem,
+                deepcenter_bundle=globals().get("DEEPCENTER_VETO_DETECTOR"),
+            )
+            gt_nodes_plain, gt_edges_plain, t_true = VAL_GT[stem]
+            pred_nodes_plain = nodes_by_id_to_plain(processed_nodes)
+            pred_edges_plain = [(int(e["source_id"]), int(e["target_id"])) for e in processed_edges]
+            row = score_sample(pred_nodes_p
+<truncated 11251 bytes>
+
+NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.
+---
+105. [2026-09-18T13:06:23Z] (step 615): hi, our 1st submission got 0.946
+---
+106. [2026-09-18T13:07:05Z] (step 618): i ran it for 8 hours whaat difference does it make to the score
+---
+107. [2026-09-18T13:08:10Z] (step 620): so we will go with long run only
+---
+108. [2026-09-18T13:09:27Z] (step 622): no the highest score is 0.97. i want to achieve it
+---
+109. [2026-09-18T13:11:09Z] (step 624): what if we run it in my laptop
+---
+110. [2026-09-18T13:12:26Z] (step 626): but we have a limit right for kaggle?
+---
+111. [2026-09-18T13:15:47Z] (step 628): what are the other options, intead of training it for days?
+---
+112. [2026-09-18T13:18:59Z] (step 630): "D:\Downloads_2\biohub-0-95.ipynb"
+this one has a score of 9.5. analyze this
+---
+113. [2026-09-18T13:21:11Z] (step 634): nvm then, list down the options
+---
+114. [2026-09-18T13:23:37Z] (step 636): A is not possible: the highest score model made publicly is the one with the hack and the next model has the same score as us.
+try B THEN
+---
+115. [2026-09-18T13:24:35Z] (step 638): run it locally
+---
+116. [2026-09-18T13:26:13Z] (step 644): proceed with step 1 in kaggle
+---
+117. [2026-09-18T13:27:47Z] (step 646): give me the entire code, not only what need to be changed
+---
+118. [2026-09-18T13:29:48Z] (step 648): there were 4 datasets before. should i use all the 4
+---
+119. [2026-09-18T13:33:01Z] (step 650): should i use accelerator
+---
+120. [2026-09-18T14:10:41Z] (step 653): "D:\Downloads_2\raw_graphs.zip" downloded file from the output
+---
+121. [2026-09-18T14:30:42Z] (step 655): Highest Validation Score Achieved: 0.00000
+Plug these exact parameters back into your main notebook:
+  ILP_EDGE_WEIGHT = -1.4184
+  ILP_APPEARANCE_WEIGHT = 0.2438
+  ILP_DISAPPEARANCE_WEIGHT = 0.8179
+  ILP_DIVISION_WEIGHT = 0.8024
+---
+122. [2026-09-18T14:34:40Z] (step 657): run it locally only, kaggle is not working properly
+---
+123. [2026-09-20T00:17:51Z] (step 678): give the code again and what all datasets need to be added step by step
+---
+124. [2026-09-20T00:28:09Z] (step 681): [I 2026-09-20 00:26:23,262] A new study created in memory with name: no-name-0e58ae34-9362-4fe9-88d7-94898ea0b461
+Found 5 raw prediction graphs!
+[09/20/26 00:26:33] WARNING  Solver failed with Gurobi, trying Scip.                             _ilp_solver.py:363
+                             Got error:                                                                            
+                             Gurobi license is not available.                                                      
+[W 2026-09-20 00:26:47,468] Trial 0 failed with parameters: {'ILP_EDGE_WEIGHT': -0.9442421461961145, 'ILP_APPEARANCE_WEIGHT': -0.05125480171409902, 'ILP_DISAPPEARANCE_WEIGHT': 1.011160567090015, 'ILP_DIVISION_WEIGHT': 1.4459761024898528} because of the following error: ValueError('`copy` is not supported for `GraphView`.\nUse `detach` to create a new reference-less graph with the same nodes and edges.').
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/dist-packages/optuna/study/_optimize.py", line 206, in _run_trial
+    value_or_values = func(trial)
+                      ^^^^^^^^^^^
+  File "/tmp/ipykernel_16/3650840086.py", line 71, in objective
+    er = evaluate(solved_graph, truth_graph, scale=ds.scale, max_distance=7.0)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1/repo/src/biohub_tracking/metrics.py", line 233, in evaluate
+    div = evaluate_divisions(
+          ^^^^^^^^^^^^^^^^^^^
+  File "/kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1/repo/src/biohub_tracking/division_metrics.py", line 446, in evaluate_divisions
+    matched_pred_divs = count_matched_pred_divisions(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1/repo/src/biohub_tracking/division_metrics.py", line 388, in count_matched_pred_divisions
+    matched_pred = _match_full(
+                   ^^^^^^^^
+<truncated 3164 bytes>
+luate(graph, gt_graph, scale, max_distance)
+    231         edge_fn = gt_graph.num_edges() - edge_tp
+    232 
+--> 233     div = evaluate_divisions(
+    234         graph, gt_graph, scale=scale, max_distance=max_distance,
+    235     )
+
+/kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1/repo/src/biohub_tracking/division_metrics.py in evaluate_divisions(pred_graph, gt_graph, scale, max_distance)
+    444     tp = sum(scores.values())
+    445     fn = len(scores) - tp
+--> 446     matched_pred_divs = count_matched_pred_divisions(
+    447         pred_graph, gt_graph, scale, max_distance,
+    448     )
+
+/kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1/repo/src/biohub_tracking/division_metrics.py in count_matched_pred_divisions(pred_graph, gt_graph, scale, max_distance)
+    386         Number of matched predicted division nodes.
+    387     """
+--> 388     matched_pred = _match_full(
+    389         pred_graph, gt_graph, scale, max_distance,
+    390     )
+
+/kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1/repo/src/biohub_tracking/division_metrics.py in _match_full(pred_graph, gt_graph, scale, max_distance)
+    132     matching = DistanceMatching(max_distance=max_distance, scale=scale)
+    133 
+--> 134     pred_copy = pred_graph.copy()
+    135     _reset_matching_attrs(pred_copy)
+    136 
+
+/usr/local/lib/python3.12/dist-packages/tracksdata/graph/_graph_view.py in copy(self, **kwargs)
+   1210             Create a new reference-less graph with the same nodes and edges.
+   1211         """
+-> 1212         raise ValueError(
+   1213             "`copy` is not supported for `GraphView`.\n"
+   1214             "Use `detach` to create a new reference-less graph with the same nodes and edges."
+
+ValueError: `copy` is not supported for `GraphView`.
+Use `detach` to create a new reference-less graph with the same nodes and edges.
+---
+125. [2026-09-20T06:13:14Z] (step 683): 9.2s	1	0.00s - Debugger warning: It seems that frozen modules are being used, which may
+9.2s	2	0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+9.2s	3	0.00s - to python to disable frozen modules.
+9.2s	4	0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+10.0s	5	0.00s - Debugger warning: It seems that frozen modules are being used, which may
+10.0s	6	0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+10.0s	7	0.00s - to python to disable frozen modules.
+10.0s	8	0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+241.4s	9	[I 2026-09-20 00:34:27,088] A new study created in memory with name: no-name-d6ac3f21-93bd-469a-9c1c-6884b31cff38
+241.4s	10	
+241.4s	11	[I 2026-09-20 00:34:27,088] A new study created in memory with name: no-name-d6ac3f21-93bd-469a-9c1c-6884b31cff38
+241.6s	12	Found 5 raw prediction graphs!
+436.0s	13	[I 2026-09-20 00:37:41,721] Trial 0 finished with value: 0.9729060511728858 and parameters: {'ILP_EDGE_WEIGHT': -0.9194096944981158, 'ILP_APPEARANCE_WEIGHT': 0.3716558820990371, 'ILP_DISAPPEARANCE_WEIGHT': 0.8853959267096936, 'ILP_DIVISION_WEIGHT': 1.9444179403085444}. Best is trial 0 with value: 0.9729060511728858.
+436.0s	14	
+436.0s	15	[I 2026-09-20 00:37:41,721] Trial 0 finished with value: 0.9729060511728858 and parameters: {'ILP_EDGE_WEIGHT': -0.9194096944981158, 'ILP_APPEARANCE_WEIGHT': 0.3716558820990371, 'ILP_DISAPPEARANCE_WEIGHT': 0.8853959267096936, 'ILP_DIVISION_WEIGHT': 1.9444179403085444}. Best is trial 0 with value: 0.9729060511728858.
+627.4s	16	[I 2026-09-20 00:40:53,093] Trial 1 finished with value: 0.9662567123955853 and parameters: {'ILP_EDGE_WEIGHT': -0.6924611915787793, 'ILP_APPEARANCE_WEIGHT': 0.08044647086586432, 'ILP_DISAPPEARANCE_WEIGHT': 1.63993031379385, 'ILP_DIVISION_WEIGHT': 0.786536122615297}. Best is trial 0 with value: 0.9729060511728858.
+627.4s	17	
+627.4s	18	[I 2026-09-20 00:40:53,093] Tri
+<truncated 65989 bytes>
+_APPEARANCE_WEIGHT': 0.3891601076537887, 'ILP_DISAPPEARANCE_WEIGHT': 1.9740145781224618, 'ILP_DIVISION_WEIGHT': 1.8085189685346648}. Best is trial 94 with value: 0.9737448869968344.
+19771.9s	310	[I 2026-09-20 05:59:57,599] Trial 99 finished with value: 0.9729743875863186 and parameters: {'ILP_EDGE_WEIGHT': -1.4141246352142054, 'ILP_APPEARANCE_WEIGHT': 0.2895887126890985, 'ILP_DISAPPEARANCE_WEIGHT': 1.9218818301564755, 'ILP_DIVISION_WEIGHT': 1.9157910407783687}. Best is trial 94 with value: 0.9737448869968344.
+19771.9s	311	
+19771.9s	312	[I 2026-09-20 05:59:57,599] Trial 99 finished with value: 0.9729743875863186 and parameters: {'ILP_EDGE_WEIGHT': -1.4141246352142054, 'ILP_APPEARANCE_WEIGHT': 0.2895887126890985, 'ILP_DISAPPEARANCE_WEIGHT': 1.9218818301564755, 'ILP_DIVISION_WEIGHT': 1.9157910407783687}. Best is trial 94 with value: 0.9737448869968344.
+19771.9s	313	
+19771.9s	314	🎉 OPTUNA SWEEP FINISHED 🎉
+19771.9s	315	Highest Validation Score Achieved: 0.97374
+19771.9s	316	Plug these exact parameters back into your main notebook:
+19771.9s	317	  ILP_EDGE_WEIGHT = -1.2810
+19771.9s	318	  ILP_APPEARANCE_WEIGHT = 0.3753
+19771.9s	319	  ILP_DISAPPEARANCE_WEIGHT = 1.9440
+19771.9s	320	  ILP_DIVISION_WEIGHT = 1.7883
+19778.9s	321	/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\|'
+19778.9s	322	  cells[i][c] = re.sub('\\\\\|', '|', cell)
+19779.1s	323	/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\_'
+19779.1s	324	  text = re.sub(r'_', '\_', text) # Escape underscores in display text
+19780.1s	325	[NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+19780.8s	326	[NbConvertApp] Writing 1240953 bytes to __notebook__.ipynb
+19784.1s	327	[NbConvertApp] Converting notebook __notebook__.ipynb to html
+19785.5s	328	[NbConvertApp] Writing 1072137 bytes to __results__.html
+---
+126. [2026-09-20T06:15:08Z] (step 686): give me the entire code with the changes so i can just copy paste
+---
+127. [2026-09-20T06:18:06Z] (step 688): os.environ["BIOHUB_OUTPUT_FILTER_SHORT_TRACKS"] = "1"
+os.environ["BIOHUB_DET_THRESHOLD"] = "0.9710161602825176"
+os.environ["BIOHUB_MOTION_RELINK_LEARNED_BONUS"] = '1.0'
+os.environ["BIOHUB_ILP_APPEARANCE_WEIGHT"] = "0.2946543577204118"
+os.environ["BIOHUB_ILP_DISAPPEARANCE_WEIGHT"] = "0.7523219730029334"
+os.environ["BIOHUB_ILP_EDGE_WEIGHT"] = "-0.6348559817875552"
+os.environ["BIOHUB_GAP_CLOSE_MAX_GAP"] = "2"
+os.environ["BIOHUB_GAP_CLOSE_UM"] = "5.0"
+os.environ["BIOHUB_GAP_DENSITY_ADAPTIVE"] = "1"
+os.environ["BIOHUB_GAP_DENSITY_REFERENCE_UM"] = "6.5"
+os.environ["BIOHUB_GAP_DENSITY_GAIN"] = "0.040"
+os.environ["BIOHUB_GAP_DENSITY_MAX_STEP_DELTA_UM"] = "0.125"
+os.environ["BIOHUB_GAP_DENSITY_NEIGHBORS"] = "3"
+os.environ["BIOHUB_OUTPUT_MIN_TRACK_LEN"] = "6"
+os.environ["BIOHUB_OUTPUT_KEEP_DIVISION_COMPONENTS"] = "1"
+os.environ["BIOHUB_OUTPUT_GAP2_RECOVERY"] = "1"
+os.environ["BIOHUB_SAFE_DIV_MAX_UM"] = "9.0"
+
+changethis
+---
+128. [2026-09-20T06:18:53Z] (step 690): its same as what we want right?
+---
+129. [2026-09-20T06:20:52Z] (step 692): 7.2s	1	0.00s - Debugger warning: It seems that frozen modules are being used, which may
+7.2s	2	0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+7.2s	3	0.00s - to python to disable frozen modules.
+7.2s	4	0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+7.9s	5	0.00s - Debugger warning: It seems that frozen modules are being used, which may
+7.9s	6	0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+7.9s	7	0.00s - to python to disable frozen modules.
+7.9s	8	0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+9.4s	9	BIOHUB_PRESET: harmonic_v3_division_wide
+9.4s	10	BIOHUB_SCORE_AXIS: public 0.939 base + holdout-selected post-process configuration
+9.7s	11	Traceback (most recent call last):
+9.7s	12	  File "<string>", line 1, in <module>
+9.7s	13	  File "/usr/local/lib/python3.12/dist-packages/papermill/execute.py", line 131, in execute_notebook
+9.7s	14	    raise_for_execution_errors(nb, output_path)
+9.7s	15	  File "/usr/local/lib/python3.12/dist-packages/papermill/execute.py", line 251, in raise_for_execution_errors
+9.7s	16	    raise error
+9.7s	17	papermill.exceptions.PapermillExecutionError: 
+9.7s	18	---------------------------------------------------------------------------
+9.7s	19	Exception encountered at "In [1]":
+9.7s	20	---------------------------------------------------------------------------
+9.7s	21	RuntimeError                              Traceback (most recent call last)
+9.7s	22	/tmp/ipykernel_23/3528156986.py in <cell line: 0>()
+9.7s	23	    107 
+9.7s	24	    108 if _drift:
+9.7s	25	--> 109     raise RuntimeError(
+9.7s	26	    110         "Configuration drift detected: " + _guard_json.dumps(_drift, sort_keys=True)
+9.7s	27	    111     )
+9.7s	28	
+9.7s	29	RuntimeError: Configuration drift detected: {"BIOHUB_ILP_APPEARANCE_WEIGHT": {"actual": 0.3753, "expected": 0.2946543577204118}, "BIOHUB_ILP_DISAPPEARANCE_WEIGHT": {"actual": 1.944, "expected": 0.7523219730029334}, "BIOHUB_ILP_EDGE_WEIGHT": {"actual": -1.281, "expected": -0.6348559817875552}}
+9.7s	30	
+11.9s	31	/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\|'
+11.9s	32	  cells[i][c] = re.sub('\\\\\|', '|', cell)
+12.1s	33	/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\_'
+12.1s	34	  text = re.sub(r'_', '\_', text) # Escape underscores in display text
+12.8s	35	[NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+13.1s	36	[NbConvertApp] Writing 249033 bytes to __notebook__.ipynb
+15.6s	37	[NbConvertApp] Converting notebook __notebook__.ipynb to html
+17.0s	38	[NbConvertApp] Writing 1152700 bytes to __results__.html
+---
+130. [2026-09-20T06:28:02Z] (step 694): 317.7s	314	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.325156
+317.9s	315	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.325156
+319.4s	316	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.365963
+319.6s	317	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.365963
+319.7s	318	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.328005
+319.9s	319	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.328005
+320.3s	320	BIOHUB_RETENTION_GUARD {"blended_candidates": 260, "dataset": "44b6_0b24845f", "frame": 26, "minimum_retention": 0.9, "primary_candidates": 297, "retention": 0.8754208754208754, "use_primary": true}
+320.5s	321	BIOHUB_RETENTION_GUARD {"blended_candidates": 260, "dataset": "44b6_0b24845f", "frame": 26, "minimum_retention": 0.9, "primary_candidates": 297, "retention": 0.8754208754208754, "use_primary": true}
+321.5s	322	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.369614
+321.7s	323	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.369614
+321.7s	324	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.332057
+321.9s	325	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.332057
+322.4s	326	BIOHUB_RETENTION_GUARD {"blended_candidates": 251, "dataset": "44b6_0b24845f", "frame": 27, "minimum_retention": 0.9, "primary_candidates": 294, "retention": 0.8537414965986394, "use_primary": true}
+322.6s	327	BIOHUB_RETENTION_GUARD {"blended_candidates": 251, "dataset": "44b6_0b24845f", "frame": 27, "minimum_retention": 0.9, "primary_candidates": 294, "retention": 0.8537414965986394, "use_primary": true}
+323.6s	328	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.365619
+323.7s	329	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.327244
+323.8s	330	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.365619
+323.8s	331	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.327244
+325.6s	332	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.366332
+325.8s	333	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.331491
+325.8s	334	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.366332
+325.8s	335	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_
+<truncated 1108 bytes>
+mary_candidates": 287, "retention": 0.8885017421602788, "use_primary": true}
+331.0s	347	BIOHUB_RETENTION_GUARD {"blended_candidates": 255, "dataset": "44b6_0b24845f", "frame": 31, "minimum_retention": 0.9, "primary_candidates": 287, "retention": 0.8885017421602788, "use_primary": true}
+331.9s	348	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.339086
+331.9s	349	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.362505
+332.1s	350	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.339086
+332.1s	351	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.362505
+332.9s	352	BIOHUB_RETENTION_GUARD {"blended_candidates": 236, "dataset": "44b6_0b24845f", "frame": 32, "minimum_retention": 0.9, "primary_candidates": 283, "retention": 0.833922261484099, "use_primary": true}
+333.1s	353	BIOHUB_RETENTION_GUARD {"blended_candidates": 236, "dataset": "44b6_0b24845f", "frame": 32, "minimum_retention": 0.9, "primary_candidates": 283, "retention": 0.833922261484099, "use_primary": true}
+333.9s	354	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.336421
+334.1s	355	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.364903
+334.1s	356	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.336421
+334.1s	357	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.364903
+335.0s	358	BIOHUB_RETENTION_GUARD {"blended_candidates": 228, "dataset": "44b6_0b24845f", "frame": 33, "minimum_retention": 0.9, "primary_candidates": 263, "retention": 0.8669201520912547, "use_primary": true}
+335.2s	359	BIOHUB_RETENTION_GUARD {"blended_candidates": 228, "dataset": "44b6_0b24845f", "frame": 33, "minimum_retention": 0.9, "primary_candidates": 263, "retention": 0.8669201520912547, "use_primary": true}
+336.0s	360	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.329875
+336.2s	361	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.364198
+336.2s	362	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.329875
+336.2s	363	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.364198
+---
+131. [2026-09-20T06:28:26Z] (step 696): 317.7s	314	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.325156
+317.9s	315	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.325156
+319.4s	316	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.365963
+319.6s	317	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.365963
+319.7s	318	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.328005
+319.9s	319	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.328005
+320.3s	320	BIOHUB_RETENTION_GUARD {"blended_candidates": 260, "dataset": "44b6_0b24845f", "frame": 26, "minimum_retention": 0.9, "primary_candidates": 297, "retention": 0.8754208754208754, "use_primary": true}
+320.5s	321	BIOHUB_RETENTION_GUARD {"blended_candidates": 260, "dataset": "44b6_0b24845f", "frame": 26, "minimum_retention": 0.9, "primary_candidates": 297, "retention": 0.8754208754208754, "use_primary": true}
+321.5s	322	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.369614
+321.7s	323	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.369614
+321.7s	324	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.332057
+321.9s	325	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.332057
+322.4s	326	BIOHUB_RETENTION_GUARD {"blended_candidates": 251, "dataset": "44b6_0b24845f", "frame": 27, "minimum_retention": 0.9, "primary_candidates": 294, "retention": 0.8537414965986394, "use_primary": true}
+322.6s	327	BIOHUB_RETENTION_GUARD {"blended_candidates": 251, "dataset": "44b6_0b24845f", "frame": 27, "minimum_retention": 0.9, "primary_candidates": 294, "retention": 0.8537414965986394, "use_primary": true}
+323.6s	328	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.365619
+323.7s	329	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.327244
+323.8s	330	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.365619
+323.8s	331	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.327244
+325.6s	332	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.366332
+325.8s	333	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.331491
+325.8s	334	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.366332
+325.8s	335	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_
+<truncated 1127 bytes>
+87, "retention": 0.8885017421602788, "use_primary": true}
+331.0s	347	BIOHUB_RETENTION_GUARD {"blended_candidates": 255, "dataset": "44b6_0b24845f", "frame": 31, "minimum_retention": 0.9, "primary_candidates": 287, "retention": 0.8885017421602788, "use_primary": true}
+331.9s	348	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.339086
+331.9s	349	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.362505
+332.1s	350	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.339086
+332.1s	351	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.362505
+332.9s	352	BIOHUB_RETENTION_GUARD {"blended_candidates": 236, "dataset": "44b6_0b24845f", "frame": 32, "minimum_retention": 0.9, "primary_candidates": 283, "retention": 0.833922261484099, "use_primary": true}
+333.1s	353	BIOHUB_RETENTION_GUARD {"blended_candidates": 236, "dataset": "44b6_0b24845f", "frame": 32, "minimum_retention": 0.9, "primary_candidates": 283, "retention": 0.833922261484099, "use_primary": true}
+333.9s	354	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.336421
+334.1s	355	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.364903
+334.1s	356	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.336421
+334.1s	357	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.364903
+335.0s	358	BIOHUB_RETENTION_GUARD {"blended_candidates": 228, "dataset": "44b6_0b24845f", "frame": 33, "minimum_retention": 0.9, "primary_candidates": 263, "retention": 0.8669201520912547, "use_primary": true}
+335.2s	359	BIOHUB_RETENTION_GUARD {"blended_candidates": 228, "dataset": "44b6_0b24845f", "frame": 33, "minimum_retention": 0.9, "primary_candidates": 263, "retention": 0.8669201520912547, "use_primary": true}
+336.0s	360	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.329875
+336.2s	361	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.364198
+336.2s	362	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.329875
+336.2s	363	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.364198
+
+its still running
+---
+132. [2026-09-20T06:49:57Z] (step 698): 1684	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.325406
+1554.8s	1685	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.362662
+1554.9s	1686	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.325406
+1554.9s	1687	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.362662
+1555.8s	1688	BIOHUB_RETENTION_GUARD {"blended_candidates": 464, "dataset": "44b6_12dfb391", "frame": 83, "minimum_retention": 0.9, "primary_candidates": 542, "retention": 0.8560885608856088, "use_primary": true}
+1556.0s	1689	BIOHUB_RETENTION_GUARD {"blended_candidates": 464, "dataset": "44b6_12dfb391", "frame": 83, "minimum_retention": 0.9, "primary_candidates": 542, "retention": 0.8560885608856088, "use_primary": true}
+1556.9s	1690	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.337377
+1557.1s	1691	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.363086
+1557.1s	1692	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.337377
+1557.1s	1693	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.363086
+1558.1s	1694	BIOHUB_RETENTION_GUARD {"blended_candidates": 483, "dataset": "44b6_12dfb391", "frame": 84, "minimum_retention": 0.9, "primary_candidates": 549, "retention": 0.8797814207650273, "use_primary": true}
+1558.3s	1695	BIOHUB_RETENTION_GUARD {"blended_candidates": 483, "dataset": "44b6_12dfb391", "frame": 84, "minimum_retention": 0.9, "primary_candidates": 549, "retention": 0.8797814207650273, "use_primary": true}
+1559.0s	1696	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.336612
+1559.2s	1697	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.336612
+1559.4s	1698	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.364785
+1559.6s	1699	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.364785
+1561.2s	1700	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.340573
+1561.4s	1701	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.340573
+1561.7s	1702	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.363892
+1561.9s	1703	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.363892
+1562.7s	1704	BIOHUB_RETENTION_GUARD {"blended_candidates": 499, "dataset": "44b6_12df
+<truncated 6032 bytes>
+7
+1616.3s	1772	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.312427
+1616.5s	1773	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.312427
+1618.5s	1774	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.312244
+1618.7s	1775	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.312244
+1620.8s	1776	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.312161
+1621.0s	1777	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.312161
+1623.0s	1778	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.311033
+1623.2s	1779	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.311033
+1625.2s	1780	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.322725
+1625.4s	1781	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.322725
+1627.5s	1782	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.325293
+1627.7s	1783	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.325293
+1629.8s	1784	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.323346
+1630.0s	1785	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.323346
+1632.2s	1786	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.325491
+1632.4s	1787	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.325491
+1634.5s	1788	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.330746
+1634.7s	1789	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.330746
+1636.8s	1790	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.322777
+1637.0s	1791	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.322777
+1639.2s	1792	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.325178
+1639.4s	1793	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.325178
+1641.5s	1794	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.329767
+1641.7s	1795	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.329767
+1643.9s	1796	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.326202
+1644.1s	1797	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.326202
+1646.3s	1798	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.317502
+1646.5s	1799	EDGE_TTA_ACTIVE views= 8 mean_abs_feat_delta= 0.317502
+---
+133. [2026-09-20T11:03:12Z] (step 700): but having a score as high as 0.973 is not possible with this model?
+---
+134. [2026-09-20T11:05:19Z] (step 702): if its overfitting we could only get score lower than the current score. then there is no point in submitting only. why did you only use 5 videos? don't you know the model can memrise it
+---
+135. [2026-09-20T12:38:18Z] (step 704): having a score of 0.973 means we have the  highest score. that means our simple model has scored more than some model thats been training for days or is a complex neural networking model
+---
+136. [2026-09-20T12:43:04Z] (step 706): how come only changing 4 weights will increasee the score by 0.3
+---
+137. [2026-09-20T13:17:47Z] (step 708): i meant from 0.946 to 0.973
+---
+138. [2026-09-20T16:35:44Z] (step 710): still got the same score only
+---
+139. [2026-09-20T16:40:05Z] (step 734): there is no such thing
+---
+140. [2026-09-20T16:45:33Z] (step 754): import os
+os.environ["BIOHUB_EDGE_FEATURE_TTA"] = "0"
+BIOHUB_PRESET = 'harmonic_v3_division_wide'
+BIOHUB_SCORE_AXIS = 'public 0.939 base + holdout-selected post-process configuration'
+
+os.environ["BIOHUB_OUTPUT_FILTER_SHORT_TRACKS"] = "1"
+os.environ["BIOHUB_DET_THRESHOLD"] = "0.9710161602825176"
+os.environ["BIOHUB_MOTION_RELINK_LEARNED_BONUS"] = '1.0'
+
+# --- THE 4 OPTUNA OPTIMIZED WEIGHTS ---
+os.environ["BIOHUB_ILP_EDGE_WEIGHT"] = "-1.2810"
+os.environ["BIOHUB_ILP_APPEARANCE_WEIGHT"] = "0.3753"
+os.environ["BIOHUB_ILP_DISAPPEARANCE_WEIGHT"] = "1.9440"
+os.environ["BIOHUB_ILP_DIVISION_WEIGHT"] = "1.7883"
+# --------------------------------------
+
+os.environ["BIOHUB_GAP_CLOSE_MAX_GAP"] = "2"
+os.environ["BIOHUB_GAP_CLOSE_UM"] = "5.0"
+os.environ["BIOHUB_GAP_DENSITY_ADAPTIVE"] = "1"
+os.environ["BIOHUB_GAP_DENSITY_REFERENCE_UM"] = "6.5"
+os.environ["BIOHUB_GAP_DENSITY_GAIN"] = "0.040"
+os.environ["BIOHUB_GAP_DENSITY_MAX_STEP_DELTA_UM"] = "0.125"
+os.environ["BIOHUB_GAP_DENSITY_NEIGHBORS"] = "3"
+os.environ["BIOHUB_OUTPUT_MIN_TRACK_LEN"] = "6"
+os.environ["BIOHUB_OUTPUT_KEEP_DIVISION_COMPONENTS"] = "1"
+os.environ["BIOHUB_OUTPUT_GAP2_RECOVERY"] = "1"
+os.environ["BIOHUB_SAFE_DIV_MAX_UM"] = "9.0"  # Max parent-to-daughter separation for an accepted division.
+#   Ground-truth parent-daughter links reach 10.4um; a 7um cap rejected ~25% of real links.
+#   Loosening 7->9 recovers wide-but-genuine divisions (this is the "sdm9" arm; alone it scored LB 0.939).
+os.environ["BIOHUB_SAFE_DIV_SISTER_MAX_UM"] = "14.0"  # Max daughter-to-daughter separation for an accepted division.
+#   Ground-truth divisions have sister separations up to 13.7um (median 10.4, p90 13.0), so a 12um cap
+#   rejected ~29% of real divisions; 14um admits all of them while the symmetry, mutual-NN, divergence
+#   and DeepCenter gates still suppress spurious wide pairs.
+os.environ["BIOHUB_SAFE_DIV_SISTER_SYMMETRY_TAU"] = "0.6"  # Sister-symmetry precision gate: reject a proposed division whose two
+os.environ["BIOHUB_SAFE_DIV_DIVERGE_UM"] = "2.25"  # Forwar
+<truncated 188063 bytes>
+   for row in pred_graph.node_attrs().iter_rows(named=True):
+            node_id = int(row["node_id"])
+            raw_nodes_by_id[node_id] = {
+                "node_id": node_id, "t": int(row["t"]),
+                "z": float(row["z"]), "y": float(row["y"]), "x": float(row["x"]),
+            }
+        raw_edges = []
+        for row in pred_graph.edge_attrs().iter_rows(named=True):
+            edge_prob = row.get("edge_prob") if hasattr(row, "get") else None
+            raw_edges.append({
+                "source_id": int(row["source_id"]), "target_id": int(row["target_id"]),
+                "edge_prob": None if edge_prob is None else float(edge_prob),
+            })
+        VAL_RAW_GRAPHS[stem] = (raw_nodes_by_id, raw_edges)
+    print(f"VALIDATOR: cached {len(VAL_RAW_GRAPHS)} raw prediction graphs + GT")
+
+
+def score_validator_config(config: dict, label: str, verbose: bool = False) -> tuple[dict, list]:
+    """Run the full post-process on every cached validator graph with the
+    given overrides and score it with the official metric formula."""
+    saved = pp_apply(config)
+    _real_test_dir = TEST_DIR
+    globals()["TEST_DIR"] = TRAIN_DIR
+    rows = []
+    t0 = time.time()
+    try:
+        for stem in val_stems:
+            raw_nodes_by_id, raw_edges = VAL_RAW_GRAPHS[stem]
+            nodes_copy = _copy.deepcopy(raw_nodes_by_id)
+            edges_copy = _copy.deepcopy(raw_edges)
+            processed_nodes, processed_edges, _stage_stats = filter_output_graph(
+                nodes_copy, edges_copy, dataset=stem,
+                deepcenter_bundle=globals().get("DEEPCENTER_VETO_DETECTOR"),
+            )
+            gt_nodes_plain, gt_edges_plain, t_true = VAL_GT[stem]
+            pred_nodes_plain = nodes_by_id_to_plain(processed_nodes)
+            pred_edges_plain = [(int(e["source_id"]), int(e["target_id"])) for e in processed_edges]
+            row = score_
+<truncated 11261 bytes>
+
+NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.
+---
+141. [2026-09-20T16:50:12Z] (step 757): we will go with a
+---
+142. [2026-09-20T16:58:03Z] (step 783): there is no tta code line prsent in it
+---
+143. [2026-09-21T04:20:56Z] (step 791): for now go with 2\
+---
+144. [2026-09-21T04:23:14Z] (step 797): @[Quote] but we deleted the original values
+---
+145. [2026-09-21T04:25:27Z] (step 805): what if because of this only the model didn't take our parameters and used what is ther in the dataset
+---
+146. [2026-09-21T04:27:33Z] (step 807): no i meant if this is the reason why our score didn't go to 0.97 then we must try to make our values in the data set right
+---
+147. [2026-09-21T04:28:43Z] (step 809): but my kaggle notebook ran for 8 hours
+---
+148. [2026-09-21T04:29:44Z] (step 811): tell me how to do plan b
+---
+149. [2026-09-21T04:33:09Z] (step 813): what if these values were also hard coded
+---
+150. [2026-09-21T04:33:21Z] (step 815): what if these values were also hard coded in the data set
+---
+151. [2026-09-21T04:36:44Z] (step 817): @[Quote] there is no line like this
+---
+152. [2026-09-21T04:37:34Z] (step 819): ru nwith gpu?
+---
+153. [2026-09-21T04:38:12Z] (step 821): how long will it tzke
+---
+154. [2026-09-21T04:38:49Z] (step 823): how will i know how much trial it runs
+---
+155. [2026-09-21T04:40:08Z] (step 825): @[Quote] there is no such code
+---
+156. [2026-09-21T04:41:40Z] (step 827): print("=" * 78)
+print("PIPELINE MANIFEST -- resolved state, not just config")
+print("=" * 78)
+
+_secondary_weights_env = os.environ.get("BIOHUB_SECONDARY_WEIGHTS", "")
+_secondary_ready = bool(_secondary_weights_env and Path(_secondary_weights_env).exists())
+print(f"Dual-seed ensemble:      requested=True  weights_found={_secondary_ready}"
+      f"{'  <-- FALLING BACK TO SINGLE-SEED, check BIOHUB_SECONDARY_WEIGHTS' if not _secondary_ready else ''}")
+
+_bidir_weight = float(os.environ.get("BIOHUB_BIDIRECTIONAL_EDGE_WEIGHT", "0"))
+print(f"Bidirectional fusion:    weight={_bidir_weight}  "
+      f"active={_bidir_weight > 0.0}  mode={os.environ.get('BIOHUB_BIDIRECTIONAL_FUSION_MODE', '(unset)')}")
+
+_dc_requested = os.environ.get("BIOHUB_USE_DEEPCENTER_VETO", "0") != "0"
+_dc_bundle = globals().get("DEEPCENTER_VETO_DETECTOR")
+_dc_loaded = "DEEPCENTER_VETO_DETECTOR" in globals() and _dc_bundle is not None
+_dc_path = _dc_bundle.get("path") if _dc_loaded else None
+print(f"DeepCenter veto:         requested={_dc_requested}  loaded={_dc_loaded}"
+      f"{'  <-- REQUESTED BUT NOT LOADED, gap/division vetoes are no-ops' if _dc_requested and not _dc_loaded else ''}")
+if _dc_loaded:
+    print(f"  - checkpoint file:     {_dc_path}")
+    print(f"  - expected epoch:      {os.environ.get('BIOHUB_DEEPCENTER_EXPECTED_EPOCH')}")
+print(f"  - gap veto:            {os.environ.get('BIOHUB_DEEPCENTER_GAP_VETO', '0') != '0'}")
+print(f"  - safe-div veto:       {os.environ.get('BIOHUB_DEEPCENTER_SAFE_DIV_VETO', '0') != '0'}")
+
+print(f"Safe-div thresholds:     parent<={os.environ.get('BIOHUB_SAFE_DIV_MAX_UM')}um  "
+      f"sister<={os.environ.get('BIOHUB_SAFE_DIV_SISTER_MAX_UM')}um  "
+      f"global_cap={os.environ.get('BIOHUB_SAFE_DIV_GLOBAL_FRAC_CAP')}  "
+      f"frame_cap={os.environ.get('BIOHUB_SAFE_DIV_FRAME_FRAC_CAP')}")
+
+print(f"Validator:               enabled={VALIDATOR_ENABLE}  "
+      f"held_out_samples={len(val_stems)}  match_radius={VALIDATOR_MATCH_RADIUS_UM}um")
+
+print("=" * 78)
+---
+157. [2026-09-21T04:44:16Z] (step 831): bro what are you saying, yesterday only you said it does not have tta, now you are saying to go back to that notebook? what difference does it make
+---
+158. [2026-09-21T04:45:44Z] (step 833): give me the entire code for this
+---
+159. [2026-09-21T04:47:59Z] (step 835): what are the datasets to add
+---
+160. [2026-09-21T04:49:59Z] (step 837): bro i cant do that, i will simply add the datasets myself
+---
+161. [2026-09-21T04:51:10Z] (step 839): run with or without gpu
+---
+162. [2026-09-21T04:53:10Z] (step 841): # Copy the physics code into the working directory
+!cp -r /kaggle/input/biohub-tracking-support-pack-50ep-v1/repo /kaggle/working/repo
+
+# Install the required tracking libraries from the support pack wheels
+!pip install --no-index --find-links=/kaggle/input/biohub-tracking-support-pack-50ep-v1/wheels -r /kaggle/input/biohub-tracking-support-pack-50ep-v1/requirements-unet-ilp.txt
+
+# Install Optuna for the sweep (Make sure "Internet" is turned ON in your notebook settings!)
+!pip install optuna
+cp: cannot stat '/kaggle/input/biohub-tracking-support-pack-50ep-v1/repo': No such file or directory
+ERROR: Could not open requirements file: [Errno 2] No such file or directory: '/kaggle/input/biohub-tracking-support-pack-50ep-v1/requirements-unet-ilp.txt'
+Requirement already satisfied: optuna in /usr/local/lib/python3.12/dist-packages (4.9.0)
+Requirement already satisfied: alembic>=1.5.0 in /usr/local/lib/python3.12/dist-packages (from optuna) (1.18.4)
+Requirement already satisfied: colorlog in /usr/local/lib/python3.12/dist-packages (from optuna) (6.10.1)
+Requirement already satisfied: numpy in /usr/local/lib/python3.12/dist-packages (from optuna) (2.0.2)
+Requirement already satisfied: packaging>=20.0 in /usr/local/lib/python3.12/dist-packages (from optuna) (26.1)
+Requirement already satisfied: sqlalchemy>=1.4.2 in /usr/local/lib/python3.12/dist-packages (from optuna) (2.0.49)
+Requirement already satisfied: tqdm in /usr/local/lib/python3.12/dist-packages (from optuna) (4.67.3)
+Requirement already satisfied: PyYAML in /usr/local/lib/python3.12/dist-packages (from optuna) (6.0.3)
+Requirement already satisfied: Mako in /usr/local/lib/python3.12/dist-packages (from alembic>=1.5.0->optuna) (1.3.11)
+Requirement already satisfied: typing-extensions>=4.12 in /usr/local/lib/python3.12/dist-packages (from alembic>=1.5.0->optuna) (4.15.0)
+Requirement already satisfied: greenlet>=1 in /usr/local/lib/python3.12/dist-packages (from sqlalchemy>=1.4.2->optuna) (3.4.0)
+Requirement already satisfied: Mark
+<truncated 13847 bytes>
+ Trial 48 pruned. 
+[I 2026-09-21 04:52:06,363] Trial 49 pruned. 
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+
+Sweep Complete!
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+/tmp/ipykernel_23/2456246600.py in <cell line: 0>()
+     97 
+     98 print("\nSweep Complete!")
+---> 99 print(f"Best Score: {study.best_value}")
+    100 print("Best Parameters:")
+    101 for key, value in study.best_params.items():
+
+/usr/local/lib/python3.12/dist-packages/optuna/study/study.py in best_value(self)
+    132         """
+    133 
+--> 134         best_value = self.best_trial.value
+    135         assert best_value is not None
+    136 
+
+/usr/local/lib/python3.12/dist-packages/optuna/study/study.py in best_trial(self)
+    166 
+    167         """
+--> 168         return self._get_best_trial(deepcopy=True)
+    169 
+    170     @property
+
+/usr/local/lib/python3.12/dist-packages/optuna/study/study.py in _get_best_trial(self, deepcopy)
+    332             )
+    333 
+--> 334         best_trial = self._storage.get_best_trial(self._study_id)
+    335 
+    336         # If the trial with the best value is infeasible, select the best trial from all feasible
+
+/usr/local/lib/python3.12/dist-packages/optuna/storages/_in_memory.py in get_best_trial(self, study_id)
+    249 
+    250             if best_trial_id is None:
+--> 251                 raise ValueError("No trials are completed yet.")
+    252             elif len(self._studies[study_id].directions) > 1:
+    253                 raise RuntimeError(
+
+ValueError: No trials are completed yet.
+---
+163. [2026-09-21T04:55:19Z] (step 843): competitions  datasets
+/kaggle/input/competitions:
+biohub-cell-tracking-during-development
+
+/kaggle/input/datasets:
+naghulpranavks	pilkwang
+---
+164. [2026-09-21T04:56:45Z] (step 845): what did you change, why did the code become lomng
+---
+165. [2026-09-21T04:58:42Z] (step 848): sould i run current cell or save and run all
+---
+166. [2026-09-21T05:22:54Z] (step 850): import subprocess
+from pathlib import Path
+
+print("🔍 Searching for the Support Pack...")
+req_file = next(Path('/kaggle/input').rglob('requirements-unet-ilp.txt'), None)
+
+if req_file:
+    support_dir = req_file.parent
+    print(f"✅ Found support pack at: {support_dir}")
+    print("⚙️ Copying physics engine...")
+    subprocess.run(f"cp -r '{support_dir}/repo' /kaggle/working/repo", shell=True)
+    
+    print("📦 Installing libraries...")
+    subprocess.run(f"pip install --no-index --find-links='{support_dir}/wheels' -r '{req_file}'", shell=True)
+    subprocess.run("pip install optuna", shell=True)
+    print("🚀 Setup 100% Complete! You can now run the Optuna cell.")
+else:
+    print("❌ ERROR: Could not find the support pack. Make sure it is added to the notebook!")
+🔍 Searching for the Support Pack...
+✅ Found support pack at: /kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1
+⚙️ Copying physics engine...
+📦 Installing libraries...
+Looking in links: /kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1/wheels
+Requirement already satisfied: torch in /usr/local/lib/python3.12/dist-packages (from -r /kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1/requirements-unet-ilp.txt (line 8)) (2.10.0+cu128)
+Requirement already satisfied: numpy>=2 in /usr/local/lib/python3.12/dist-packages (from -r /kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1/requirements-unet-ilp.txt (line 9)) (2.0.2)
+Requirement already satisfied: pandas>=2 in /usr/local/lib/python3.12/dist-packages (from -r /kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1/requirements-unet-ilp.txt (line 10)) (2.3.3)
+Processing /kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1/wheels/polars-1.42.0-py3-none-any.whl (from -r /kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-50ep-v1/requirements-unet-ilp.txt (line 11))
+Processing /kaggle/input/datasets/pilkwang/biohub-tracking-support-pack-5
+<truncated 135372 bytes>
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/torch/serialization.py", line 749, in __init__
+    super().__init__(open(name, mode))  # noqa: SIM115
+                     ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/kaggle/working/repo/weights/unet_transformer/split_0/edge_predictor_best.pth'
+
+
+Sweep Complete!
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+/tmp/ipykernel_23/1483378928.py in <cell line: 0>()
+     62 
+     63 print("\nSweep Complete!")
+---> 64 print(f"Best Score: {study.best_value}")
+     65 print("Best Parameters:")
+     66 for key, value in study.best_params.items():
+
+/usr/local/lib/python3.12/dist-packages/optuna/study/study.py in best_value(self)
+    132         """
+    133 
+--> 134         best_value = self.best_trial.value
+    135         assert best_value is not None
+    136 
+
+/usr/local/lib/python3.12/dist-packages/optuna/study/study.py in best_trial(self)
+    166 
+    167         """
+--> 168         return self._get_best_trial(deepcopy=True)
+    169 
+    170     @property
+
+/usr/local/lib/python3.12/dist-packages/optuna/study/study.py in _get_best_trial(self, deepcopy)
+    332             )
+    333 
+--> 334         best_trial = self._storage.get_best_trial(self._study_id)
+    335 
+    336         # If the trial with the best value is infeasible, select the best trial from all feasible
+
+/usr/local/lib/python3.12/dist-packages/optuna/storages/_in_memory.py in get_best_trial(self, study_id)
+    249 
+    250             if best_trial_id is None:
+--> 251                 raise ValueError("No trials are completed yet.")
+    252             elif len(self._studies[study_id].directions) > 1:
+    253                 raise RuntimeError(
+
+ValueError: No trials are completed yet.
+---
+167. [2026-09-21T05:27:00Z] (step 853): sjould i run only the optuna cell or all the 4 cell
+---
+168. [2026-09-21T05:28:04Z] (step 855): [I 2026-09-21 05:27:36,399] A new study created in memory with name: no-name-21d09707-a2e8-41a7-bf42-f26186ad7d6e
+[I 2026-09-21 05:27:36,532] Trial 0 pruned. 
+Starting Post-Processing Sweep...
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+[I 2026-09-21 05:27:36,649] Trial 1 pruned. 
+[I 2026-09-21 05:27:36,765] Trial 2 pruned. 
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+[I 2026-09-21 05:27:36,880] Trial 3 pruned. 
+[I 2026-09-21 05:27:36,995] Trial 4 pruned. 
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+.....................
+---
+169. [2026-09-21T05:30:45Z] (step 857): [I 2026-09-21 05:29:56,178] Trial 21 pruned. 
+[I 2026-09-21 05:29:56,314] Trial 22 pruned. 
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+[I 2026-09-21 05:29:56,445] Trial 23 pruned. 
+[I 2026-09-21 05:29:56,575] Trial 24 pruned. 
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+[I 2026-09-21 05:29:56,709] Trial 25 pruned. 
+[I 2026-09-21 05:29:56,840] Trial 26 pruned. 
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+[I 2026-09-21 05:29:56,968] Trial 27 pruned. 
+[I 2026-09-21 05:29:57,100] Trial 28 pruned. 
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+[I 2026-09-21 05:29:57,233] Trial 29 pruned. 
+[I 2026-09-21 05:29:57,364] Trial 30 pruned. 
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+[I 2026-09-21 05:29:57,494] Trial 31 pruned. 
+[I 2026-09-21 05
+<truncated 3313 bytes>
+ile or directory
+
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+[I 2026-09-21 05:29:59,911] Trial 49 pruned. 
+Error during prediction:
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+
+
+Sweep Complete!
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+/tmp/ipykernel_58/1483378928.py in <cell line: 0>()
+     62 
+     63 print("\nSweep Complete!")
+---> 64 print(f"Best Score: {study.best_value}")
+     65 print("Best Parameters:")
+     66 for key, value in study.best_params.items():
+
+/usr/local/lib/python3.12/dist-packages/optuna/study/study.py in best_value(self)
+    132         """
+    133 
+--> 134         best_value = self.best_trial.value
+    135         assert best_value is not None
+    136 
+
+/usr/local/lib/python3.12/dist-packages/optuna/study/study.py in best_trial(self)
+    166 
+    167         """
+--> 168         return self._get_best_trial(deepcopy=True)
+    169 
+    170     @property
+
+/usr/local/lib/python3.12/dist-packages/optuna/study/study.py in _get_best_trial(self, deepcopy)
+    332             )
+    333 
+--> 334         best_trial = self._storage.get_best_trial(self._study_id)
+    335 
+    336         # If the trial with the best value is infeasible, select the best trial from all feasible
+
+/usr/local/lib/python3.12/dist-packages/optuna/storages/_in_memory.py in get_best_trial(self, study_id)
+    249 
+    250             if best_trial_id is None:
+--> 251                 raise ValueError("No trials are completed yet.")
+    252             elif len(self._studies[study_id].directions) > 1:
+    253                 raise RuntimeError(
+
+ValueError: No trials are completed yet.
+---
+170. [2026-09-21T05:31:09Z] (step 859): i did it again and still got this
+---
+171. [2026-09-21T05:52:19Z] (step 861): [I 2026-09-21 05:32:04,445] A new study created in memory with name: no-name-49f1752f-e488-44c6-b529-bc9854949c80
+Starting Post-Processing Sweep..
+
+its been like this by 20 minutes.
+---
+172. [2026-09-21T06:11:15Z] (step 863): [I 2026-09-21 06:10:43,368] A new study created in memory with name: no-name-5abfb85b-695e-406d-90c8-b60b7ab36bc9
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 06:10:43,546] Trial 0 pruned. 
+Starting Post-Processing Sweep...
+
+--- Starting Trial 0 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 1 ---
+🎥 Processing video 44b6_0113de3b...
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 06:10:43,656] Trial 1 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 06:10:43,765] Trial 2 pruned. 
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 2 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 3 ---
+🎥 Processing video 44b6_0113de3b...
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 06:10:43,896] Trial 3 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 06:10:44,008] Trial 4 pruned. 
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 4 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 5 ---
+🎥 Processing video 44b6_0113de3b...
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 06:10:44,115] Trial 5 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 06:10:44,221] Trial 6 pruned. 
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 6 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 7 ---
+🎥 Processing video 44b6_0113de3b...
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 06:10:44,343] Trial 7 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 06:10:44,450] Trial 8 pruned. 
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 8 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 9 ---
+🎥 Processing video 44b6_0113de3b...
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 06:10:44,556] Trial 9 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 06:10:44,703] Trial 10 pruned. 
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 10 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 11 ---
+🎥 Processing video 44b6_0113de3b...
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 06:10:44,838] Trial 11 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 06:10:44,961] Trial 12 pruned. 
+❌ Prediction crashed. Pruning trial.
+---
+173. [2026-09-21T06:13:16Z] (step 865): [I 2026-09-21 06:12:46,365] A new study created in memory with name: no-name-7a4ddbd9-1a90-4f7e-8c06-de44912aece1
+Starting Post-Processing Sweep...
+
+--- Starting Trial 0 ---
+🎥 Processing video 44b6_0113de3b...
+Traceback (most recent call last):
+  File "/kaggle/working/repo/scripts/predict_unet_transformer.py", line 20, in <module>
+    import zarr
+ModuleNotFoundError: No module named 'zarr'
+[I 2026-09-21 06:13:01,518] Trial 0 pruned. 
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 1 ---
+🎥 Processing video 44b6_0113de3b...
+Traceback (most recent call last):
+  File "/kaggle/working/repo/scripts/predict_unet_transformer.py", line 20, in <module>
+    import zarr
+ModuleNotFoundError: No module named 'zarr'
+[I 2026-09-21 06:13:04,023] Trial 1 pruned. 
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 2 ---
+🎥 Processing video 44b6_0113de3b...
+Traceback (most recent call last):
+  File "/kaggle/working/repo/scripts/predict_unet_transformer.py", line 20, in <module>
+    import zarr
+ModuleNotFoundError: No module named 'zarr'
+[I 2026-09-21 06:13:06,458] Trial 2 pruned. 
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 3 ---
+🎥 Processing video 44b6_0113de3b...
+Traceback (most recent call last):
+  File "/kaggle/working/repo/scripts/predict_unet_transformer.py", line 20, in <module>
+    import zarr
+ModuleNotFoundError: No module named 'zarr'
+[I 2026-09-21 06:13:08,986] Trial 3 pruned. 
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 4 ---
+🎥 Processing video 44b6_0113de3b...
+---
+174. [2026-09-21T06:20:21Z] (step 867): [I 2026-09-21 06:16:19,551] A new study created in memory with name: no-name-c0203b52-a674-4a96-991b-212c43bd3709
+Starting Post-Processing Sweep...
+
+--- Starting Trial 0 ---
+🎥 Processing video 44b6_0113de3b...
+/usr/local/lib/python3.12/dist-packages/dask/array/image.py:7: FutureWarning: `find_available_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  from skimage.io import imread as sk_imread
+/usr/lib/python3.12/importlib/__init__.py:90: FutureWarning: `reset_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  return _bootstrap._gcd_import(name[level:], package, level)
+Fold 0: 1 datasets | weights=/kaggle/working/repo/weights/unet_transformer/split_0/edge_predictor_best.pth | device=cuda | window_size=2 | pool_kernel_um=3.0
+Saved 1 predictions to /kaggle/working/repo/predictions/unknown/unet_transformer/split_0
+✅ 44b6_0113de3b Score: 1.0008
+🎥 Processing video 44b6_0b24845f...
+/usr/local/lib/python3.12/dist-packages/dask/array/image.py:7: FutureWarning: `find_available_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  from skimage.io import imread as sk_imread
+/usr/lib/python3.12/importlib/__init__.py:90: FutureWarning: `reset_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  return _bootstrap._gcd_import(name[level:], package, level)
+Fold 0: 1 datasets | weights=/kaggle/working/repo/weights/unet_transformer/split_0/edge_predictor_best.pth | device=cuda | window_size=2 | pool_kernel_um=3.0
+Saved 1 predictions to /kaggle/working/repo/predictions/unknown/unet_transformer/split_0
+✅ 44b6_0b24845f Score: 1.0013
+🎥 Processing video 44b6_0c582fdc...
+/usr/local/lib/python3.12/dist-packages/dask/array/image.py:7: FutureWarning: `find_available_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  from skimage.io import imread as sk_imread
+/usr/lib/python3.12/importlib/__init__.py:90: FutureWarning: `reset_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  return _bootstrap._gcd_import(name[level:], package, level)
+Fold 0: 1 datasets | weights=/kaggle/working/repo/weights/unet_transformer/split_0/edge_predictor_best.pth | device=cuda | window_size=2 | pool_kernel_um=3.0
+---
+175. [2026-09-21T10:25:36Z] (step 869): _bootstrap._gcd_import(name[level:], package, level)
+9692.5s	3281	/usr/local/lib/python3.12/dist-packages/dask/array/image.py:7: FutureWarning: `find_available_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+9692.5s	3282	  from skimage.io import imread as sk_imread
+9692.5s	3283	/usr/lib/python3.12/importlib/__init__.py:90: FutureWarning: `reset_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+9692.5s	3284	  return _bootstrap._gcd_import(name[level:], package, level)
+9692.5s	3285	
+9692.5s	3286	/usr/local/lib/python3.12/dist-packages/dask/array/image.py:7: FutureWarning: `find_available_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+9692.5s	3287	  from skimage.io import imread as sk_imread
+9692.5s	3288	/usr/lib/python3.12/importlib/__init__.py:90: FutureWarning: `reset_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+9692.5s	3289	  return _bootstrap._gcd_import(name[level:], package, level)
+9692.9s	3290	Fold 0: 1 datasets | weights=/kaggle/working/repo/weights/unet_transformer/split_0/edge_predictor_best.pth | device=cuda | window_size=2 | pool_kernel_um=3.0
+9693.1s	3291	Fold 0: 1 datasets | weights=/kaggle/working/repo/weights/unet_transformer/split_0/edge_predictor_best.pth | device=cuda | window_size=2 | pool_kernel_um=3.0
+9777.0s	3292	Saved 1 predictions to /kaggle/working/repo/predictions/unknown/unet_transformer/split_0
+9777.2s	3293	Saved 1 predictions to /kaggle/working/repo/predictions/unknown/unet_transformer/split_0
+<truncated 139689 bytes>
+o` is deprecated. Instead, use `imageio` or other I/O packages directly.
+14547.0s	4255	  return _bootstrap._gcd_import(name[level:], package, level)
+14547.2s	4256	/usr/local/lib/python3.12/dist-packages/dask/array/image.py:7: FutureWarning: `find_available_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+14547.2s	4257	  from skimage.io import imread as sk_imread
+14547.2s	4258	/usr/lib/python3.12/importlib/__init__.py:90: FutureWarning: `reset_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+14547.2s	4259	  return _bootstrap._gcd_import(name[level:], package, level)
+14547.2s	4260	
+14547.2s	4261	/usr/local/lib/python3.12/dist-packages/dask/array/image.py:7: FutureWarning: `find_available_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+14547.2s	4262	  from skimage.io import imread as sk_imread
+14547.2s	4263	/usr/lib/python3.12/importlib/__init__.py:90: FutureWarning: `reset_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+14547.2s	4264	  return _bootstrap._gcd_import(name[level:], package, level)
+14547.6s	4265	Fold 0: 1 datasets | weights=/kaggle/working/repo/weights/unet_transformer/split_0/edge_predictor_best.pth | device=cuda | window_size=2 | pool_kernel_um=3.0
+14547.8s	4266	Fold 0: 1 datasets | weights=/kaggle/working/repo/weights/unet_transformer/split_0/edge_predictor_best.pth | device=cuda | window_size=2 | pool_kernel_um=3.0
+---
+176. [2026-09-21T10:28:24Z] (step 872): its a problem if all the scores are same. what should we do
+---
+177. [2026-09-21T10:34:46Z] (step 874): 🔍 Found these hidden variables inside the physics engine:
+
+only this is the output.
+---
+178. [2026-09-21T10:37:19Z] (step 882): i should save and run
+---
+179. [2026-09-21T10:38:31Z] (step 884): [I 2026-09-21 10:37:53,421] A new study created in memory with name: no-name-1bab3f4b-ef23-4fe0-a12e-67a767fab93b
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:53,550] Trial 0 pruned. 
+Starting REAL ILP Sweep...
+
+--- Starting Trial 0 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 1 ---
+🎥 Processing video 44b6_0113de3b...
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:53,643] Trial 1 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:53,734] Trial 2 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:53,825] Trial 3 pruned. 
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 2 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 3 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 4 ---
+🎥 Processing video 44b6_0113de3b...
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:53,918] Trial 4 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:54,009] Trial 5 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:54,101] Trial 6 pruned. 
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 5 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 6 ---
+🎥 Processing video 44b6_0113de3b...
+<truncated 6510 bytes>
+n't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:56,547] Trial 30 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:56,657] Trial 31 pruned. 
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 31 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 32 ---
+🎥 Processing video 44b6_0113de3b...
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:56,759] Trial 32 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:56,858] Trial 33 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:56,959] Trial 34 pruned. 
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 33 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 34 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:57,061] Trial 35 pruned. 
+python3: can't open file '/kaggle/working/repo/scripts/predict_unet_transformer.py': [Errno 2] No such file or directory
+[I 2026-09-21 10:37:57,160] Trial 36 pruned. 
+
+--- Starting Trial 35 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 36 ---
+🎥 Processing video 44b6_0113de3b...
+❌ Prediction crashed. Pruning trial.
+
+--- Starting Trial 37 ---
+🎥 Processing video 44b6_0113de3b...
+---
+180. [2026-09-21T10:50:14Z] (step 886): --- Starting Trial 0 ---
+🎥 Processing video 44b6_0113de3b...
+/usr/local/lib/python3.12/dist-packages/dask/array/image.py:7: FutureWarning: `find_available_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  from skimage.io import imread as sk_imread
+/usr/lib/python3.12/importlib/__init__.py:90: FutureWarning: `reset_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  return _bootstrap._gcd_import(name[level:], package, level)
+Fold 0: 1 datasets | weights=/kaggle/working/repo/weights/unet_transformer/split_0/edge_predictor_best.pth | device=cuda | window_size=2 | pool_kernel_um=3.0
+Saved 1 predictions to /kaggle/working/repo/predictions/unknown/unet_transformer/split_0
+✅ 44b6_0113de3b Score: 0.9982
+🎥 Processing video 44b6_0b24845f...
+/usr/local/lib/python3.12/dist-packages/dask/array/image.py:7: FutureWarning: `find_available_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  from skimage.io import imread as sk_imread
+/usr/lib/python3.12/importlib/__init__.py:90: FutureWarning: `reset_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  return _bootstrap._gcd_import(name[level:], package, level)
+Fold 0: 1 datasets | weights=/kaggle/working/repo/weights/unet_transformer/split_0/edge_predictor_best.pth | device=cuda | window_size=2 | pool_kernel_um=3.0
+Saved 1 predictions to /kaggle/working/repo/predictions/unknown/unet_transformer/split_0
+✅ 44b6_0b24845f Score: 0.9813
+🎥 Processing video 44b6_0c582fdc...
+/usr/local/lib/python3.12/dist-packages/dask/array/image.py:7: FutureWarning: `find_available_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  from skimage.io import imread as sk_imread
+/usr/lib/python3.12/importlib/__init__.py:90: FutureWarning: `reset_plugins` is deprecated since version 0.25 and will be removed in version 0.27. The plugin infrastructure of `skimage.io` is deprecated. Instead, use `imageio` or other I/O packages directly.
+  return _bootstrap._gcd_import(name[level:], package, level)
+Fold 0: 1 datasets | weights=/kaggle/work
+---
+181. [2026-09-21T11:17:52Z] (step 888): /boost Come up with ideas to boost the score beyond 0.946 and avoid trivial changes like hyperparameter tuning, removing the false positiives in the graph which won't improve the score further.
+---
+182. [2026-09-23T12:32:54Z] (step 890): /boost Come up with ideas to boost the score beyond 0.946 and avoid trivial changes like hyperparameter tuning, removing the false positiives in the graph which won't improve the score further.
+---
+183. [2026-09-23T12:41:00Z] (step 893): but none of your prrevious suggestions or improvements have even affected the score by 0.0000001. why should i do these. again don't come up with stupid suggestions like 'it would increase....' 'it will do this...' or ''it will do that .....' . i need an actual improvement
+---
+184. [2026-09-23T12:49:01Z] (step 895): not possible. you see we have taken the code form someone else. most probably the parameters they already have is THE BEST. so just changing them or adding some small parameters is not going to improve it. so none of your suggesged metod is going to work unless you are going tpo suggest some actual improivement
+---
+185. [2026-09-23T12:52:50Z] (step 897): "D:\Downloads_2\biohub-final-notebook.ipynb"
+you see this is teh actual code (" from another person"). analyse this and gie the changes
+---
+186. [2026-09-23T12:58:13Z] (step 914): change it yourself
+---
+187. [2026-09-23T13:00:15Z] (step 924): no why did you change it in 3 places. u only told 2 places. analyse your file again and don't do any untold changes as you iwsh
+---
+188. [2026-09-23T13:02:09Z] (step 926): give me the location of the file to be uploaded
+---
+189. [2026-09-23T13:37:26Z] (step 928): # Resolved state of every optional/conditional mechanism, printed once.
+# The point: every silent bug found in this project so far (DeepCenter
+# never loading, a duplicate training cell silently winning, a dead
+# validator comparison) would have been visible on this one printout
+# instead of requiring manual tracing. Read this block before trusting
+# any run's score.
+# ============================================================
+
+print("=" * 78)
+print("PIPELINE MANIFEST -- resolved state, not just config")
+print("=" * 78)
+
+_secondary_weights_env = os.environ.get("BIOHUB_SECONDARY_WEIGHTS", "")
+_secondary_ready = bool(_secondary_weights_env and Path(_secondary_weights_env).exists())
+print(f"Dual-seed ensemble:      requested=True  weights_found={_secondary_ready}"
+      f"{'  <-- FALLING BACK TO SINGLE-SEED, check BIOHUB_SECONDARY_WEIGHTS' if not _secondary_ready else ''}")
+
+_bidir_weight = float(os.environ.get("BIOHUB_BIDIRECTIONAL_EDGE_WEIGHT", "0"))
+print(f"Bidirectional fusion:    weight={_bidir_weight}  "
+      f"active={_bidir_weight > 0.0}  mode={os.environ.get('BIOHUB_BIDIRECTIONAL_FUSION_MODE', '(unset)')}")
+
+_dc_requested = os.environ.get("BIOHUB_USE_DEEPCENTER_VETO", "0") != "0"
+_dc_bundle = globals().get("DEEPCENTER_VETO_DETECTOR")
+_dc_loaded = "DEEPCENTER_VETO_DETECTOR" in globals() and _dc_bundle is not None
+_dc_path = _dc_bundle.get("path") if _dc_loaded else None
+print(f"DeepCenter veto:         requested={_dc_requested}  loaded={_dc_loaded}"
+      f"{'  <-- REQUESTED BUT NOT LOADED, gap/division vetoes are no-ops' if _dc_requested and not _dc_loaded else ''}")
+if _dc_loaded:
+    print(f"  - checkpoint file:     {_dc_path}")
+    print(f"  - expected epoch:      {os.environ.get('BIOHUB_DEEPCENTER_EXPECTED_EPOCH')}")
+print(f"  - gap veto:            {os.environ.get('BIOHUB_DEEPCENTER_GAP_VETO', '0') != '0'}")
+print(f"  - safe-div veto:       {os.environ.get('BIOHUB_DEEPCENTER_SAFE_DIV_VETO', '0') != '0'}")
+
+print(f"Safe-div thresholds:     parent<={os.e
+<truncated 36244 bytes>
+geometry-filter+prune-isolated: 6362 nodes, 6118 edges
+  [6bba_05b6850b] after short-track filtering: 6154 nodes, 5960 edges (components_removed=50)
+  [6bba_05b6850b] FINAL: 6154 nodes, 5960 edges
+  [6bba_05db0fb1] after edge-filter+motion-relink: 70806 nodes, 68034 edges
+  [6bba_05db0fb1] after gap-closing (single-frame + gap2): 71251 nodes, 68865 edges
+  [6bba_05db0fb1] after safe-division repair: 71251 nodes, 68892 edges (geometric_candidates=314, deepcenter_rejected=281, post_veto_candidates=33, added=27, cap_skipped=0, mutual_nn_rejected=270, divergence_rejected=2709)
+  [6bba_05db0fb1] after division-geometry-filter+prune-isolated: 71224 nodes, 68892 edges
+  [6bba_05db0fb1] after short-track filtering: 70264 nodes, 68164 edges (components_removed=232)
+  [6bba_05db0fb1] FINAL: 70264 nodes, 68164 edges
+Wrote /kaggle/working/submission.csv with 233,831 rows
+Node rows: 118,959 | edge rows: 114,872
+Wrote /kaggle/working/run_stats.csv
+id	dataset	row_type	node_id	t	z	y	x	source_id	target_id
+0	0	44b6_0113de3b	node	0	0	0	10	52	-1	-1
+1	1	44b6_0113de3b	node	1	0	0	8	72	-1	-1
+2	2	44b6_0113de3b	node	2	0	0	107	77	-1	-1
+3	3	44b6_0113de3b	node	3	0	0	213	63	-1	-1
+4	4	44b6_0113de3b	node	4	0	0	244	68	-1	-1
+5	5	44b6_0113de3b	node	5	0	1	25	64	-1	-1
+6	6	44b6_0113de3b	node	6	0	1	51	84	-1	-1
+7	7	44b6_0113de3b	node	7	0	1	65	59	-1	-1
+---------------------------------------------------------------------------
+RuntimeError                              Traceback (most recent call last)
+/tmp/ipykernel_23/477589942.py in <cell line: 0>()
+   3224         or int(_guard_record["blended_candidates"]) < 0
+   3225     ):
+-> 3226         raise RuntimeError("Frame-retention diagnostic contract changed")
+   3227     _guard_expected_use_primary = bool(
+   3228         int(_guard_record["primary_candidates"]) > 0
+
+RuntimeError: Frame-retention diagnostic contract changed
+
+this notebook failed after some time
+---
+190. [2026-09-23T13:43:17Z] (step 941): so will this actually help increase the score
+---
+191. [2026-09-23T14:17:06Z] (step 943): Go through the entire chat, get all the valuable info and put in informationval.md
+---
